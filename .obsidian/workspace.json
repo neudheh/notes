@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "50842e08ec7c6682",
+    "type": "split",
+    "children": [
+      {
+        "id": "b124e638864ce955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "716e82df228f9c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reminders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "152c7dcc27b92da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "63d7a87b79ef22d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c3a39e792f3371",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "a804b86a1351460a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9939c17f3e72abaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "right": {
+    "id": "16c4713a3e66b9f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b32643904aafe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a4ffc377012f0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reminders.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "028e9fefd9592cfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reminders.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fab8d91e99660bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3aee28c5360c73c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reminders.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "716e82df228f9c39",
+  "lastOpenFiles": [
+    "Pasted image 20230520104013.png",
+    "Externalities and imperfect info.md",
+    "Evalutating a policy.md",
+    "images/Overestimation of benefits.png",
+    "images/Imperfect info benefits.png",
+    "images/Negative externality.png",
+    "images/positive externality.png",
+    "GP prep quiz.md",
+    "Physics/Measurement Part 2.md",
+    "Straits Times primers.md",
+    "Physics/about h2 physics.md",
+    "Reminders.md",
+    "Physics/Dynamics.md",
+    "Physics/Forces.md",
+    "Physics/Kinematics.md",
+    "Physics/Measurement Part 1.md",
+    "Physics/Measurement Part 2 (2).md",
+    "Principle of conservation of momentum.png.md",
+    "images/Physics/Principle of conservation of momentum.png",
+    "Economics/Central Problem of Economics.md",
+    "Economics/About Economics.md",
+    "Computing/Data types.md",
+    "Computing/Pseudocode 101.md",
+    "Computing/Functions.md",
+    "Computing/Data structures.md",
+    "Computing/Intro to python.md",
+    "Computing/Flowchart 101.md",
+    "Computing/Decision tables 101.md",
+    "Computing/Control flow.md",
+    "images/Physics/multiple vectors.png",
+    "images/Physics/resolution of vectors.png",
+    "images/Physics/parallelogram method.png",
+    "images/Physics/Paralellogram method.png",
+    "Economics/Elasicity.md",
+    "images/Physics/Tip to tail method.png",
+    "images/Physics",
+    "List of articles for PW.md"
+  ]
+}

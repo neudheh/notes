@@ -1,0 +1,6 @@
+- Try to avoid `while True` and `break` 
+- `For` is for a certain number
+- `While` is repeated untill the condition is met
+- No hardcoding
+- Try to avoid one liners - readability matters!
+- 

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#07b971",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Source Code Pro",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "highlight"
+  ]
+}
