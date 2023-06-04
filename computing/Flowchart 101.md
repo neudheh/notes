@@ -25,7 +25,7 @@ ENDPROCEDURE
 
 - Flowchart lines should never cross
 - There are no for loops in flowchart
-- Decisoons need to have True and False values
+- Decisions need to have True and False values
 ## Selection constructs
 ![[Flowchart for selection constructs.png]]
 ## While loops

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b124e638864ce955",
+        "id": "ecc94171d8d2900e",
         "type": "tabs",
         "children": [
           {
-            "id": "716e82df228f9c39",
+            "id": "e9c49e9b0a157864",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,44 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716e82df228f9c39",
+  "active": "e9c49e9b0a157864",
   "lastOpenFiles": [
-    "Pasted image 20230520104013.png",
-    "Externalities and imperfect info.md",
-    "Evalutating a policy.md",
-    "images/Overestimation of benefits.png",
-    "images/Imperfect info benefits.png",
-    "images/Negative externality.png",
-    "images/positive externality.png",
-    "GP prep quiz.md",
-    "Physics/Measurement Part 2.md",
-    "Straits Times primers.md",
-    "Physics/about h2 physics.md",
+    "mye todo.md",
+    "physics/Forces.md",
+    "computing/Flowchart 101.md",
+    "computing/Control flow.md",
+    "physics/Measurement Part 1.md",
+    "physics/Measurement Part 2.md",
     "Reminders.md",
-    "Physics/Dynamics.md",
-    "Physics/Forces.md",
-    "Physics/Kinematics.md",
-    "Physics/Measurement Part 1.md",
-    "Physics/Measurement Part 2 (2).md",
-    "Principle of conservation of momentum.png.md",
-    "images/Physics/Principle of conservation of momentum.png",
-    "Economics/Central Problem of Economics.md",
-    "Economics/About Economics.md",
-    "Computing/Data types.md",
-    "Computing/Pseudocode 101.md",
-    "Computing/Functions.md",
-    "Computing/Data structures.md",
-    "Computing/Intro to python.md",
-    "Computing/Flowchart 101.md",
-    "Computing/Decision tables 101.md",
-    "Computing/Control flow.md",
-    "images/Physics/multiple vectors.png",
-    "images/Physics/resolution of vectors.png",
-    "images/Physics/parallelogram method.png",
-    "images/Physics/Paralellogram method.png",
-    "Economics/Elasicity.md",
-    "images/Physics/Tip to tail method.png",
-    "images/Physics",
-    "List of articles for PW.md"
+    "computing/Functions.md",
+    "computing/Decision tables 101.md",
+    "computing/Data types.md",
+    "computing/Data structures.md"
   ]
 }

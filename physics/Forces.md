@@ -70,7 +70,7 @@ $$\frac{1}{K_{eff}}= \frac{1}{K_{1}} + \frac{1}{K_{2}} + ... + \frac{1}{K_{N}}$$
 - For springs in parallel, the force exerted is equal to the sum of the force exerted on each spring, and the extension is constant
 $$F = F_1 + F_2$$
 $$k_{eff} = k_1x+ k_2x$$
-$$k_eff = k_1 +k_2$$
+$$k_{eff} = k_1 +k_2$$
 - For N springs combined in series,
 $$k_{eff} = k_1 +k_2 +... +k_N$$
 ## Upthrust/ buoyant force

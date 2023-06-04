@@ -1,9 +1,9 @@
 ## Algorithm
-- An algoritm is a step-by-step procedure (well-defined instructions) to solve a given problem
+- An algorithm is a step-by-step procedure (well-defined instructions) to solve a given problem
 - We can represent algorithms as [[Flowchart 101|flowcharts]] and [[Pseudocode 101|pseudocode]]
 ## Constructs
 ### Sequence construct
-- A sequence construct involves perfoming multiple instructions in a fixed order
+- A sequence construct involves performing multiple instructions in a fixed order
 - The flowchart looks like this
 ![[Sequence construct.png]]
 - Every step must be carried out in the specific order or the algorithm may not work correctly
