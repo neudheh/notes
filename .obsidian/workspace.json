@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc94171d8d2900e",
+        "id": "e6f6d3d899791171",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c49e9b0a157864",
+            "id": "ae49a57e3aa233d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reminders.md",
+                "file": "economics/Externalities and imperfect info.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 309.5
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reminders.md",
+                "file": "economics/Externalities and imperfect info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reminders.md",
+                "file": "economics/Externalities and imperfect info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reminders.md"
+                "file": "economics/Externalities and imperfect info.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,18 +147,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9c49e9b0a157864",
+  "active": "ae49a57e3aa233d5",
   "lastOpenFiles": [
+    "economics/Demand and Supply.md",
+    "economics/Elasicity.md",
+    "economics/Central Problem of Economics.md",
+    "economics/About Economics.md",
+    "computing/intro to python.md",
+    "computing/decision tables 101.md",
+    "computing/pseudocode 101.md",
+    "computing/search algorithms.md",
+    "computing/recursion.md",
+    "computing/number systems.md",
+    "computing/flask and jinja.md",
+    "computing/html and css.md",
+    "computing/functions.md",
+    "computing/data structures.md",
+    "computing/control flow.md",
+    "computing/file io.md",
+    "computing/data types.md",
+    "computing/practical.md",
+    "computing/trace tables 101.md",
+    "computing/trace trees 101.md",
+    "computing/flowchart 101.md",
+    "images/Computing/Decision table step 4a.png",
+    "images/Computing/Decision table step 4b.png",
+    "images/Computing/Decision table step 3.png",
+    "images/Computing/Flowchart elements.png",
+    "images/Computing/Decision table step 2.png",
     "mye todo.md",
-    "physics/Forces.md",
-    "computing/Flowchart 101.md",
-    "computing/Control flow.md",
-    "physics/Measurement Part 1.md",
-    "physics/Measurement Part 2.md",
+    "images/Computing/Decision table step 1.png",
     "Reminders.md",
-    "computing/Functions.md",
-    "computing/Decision tables 101.md",
-    "computing/Data types.md",
-    "computing/Data structures.md"
+    "images/Computing/Flowchart for while loop.png",
+    "images/Computing/Iteration construct.png",
+    "images/Computing/Selection construct.png",
+    "images/Computing/Sequence construct.png",
+    "physics/Dynamics.md",
+    "physics/Measurement Part 2.md",
+    "economics/Externalities and imperfect info.md"
   ]
 }

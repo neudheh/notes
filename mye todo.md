@@ -18,7 +18,7 @@
 - [ ] Market failure
 - [ ] Inequity
 ## Math
-- [ ] Curve Sketching 1
+- [x] Curve Sketching 1
 - [ ] Inequalities
 - [ ] System of linear equations
 - [ ] Functions
@@ -28,5 +28,15 @@
 - [ ] Techniques and applications of differentiation
 - [ ] Series expansion
 ## Physics
+- [ ] Measurement part 1
+- [ ] Measurement part 2
+- [ ] Kinematics
+- [ ] Forces
+- [ ] Dynamics
+- [ ] Work, Energy, Power
 ## GP
+- [ ] Essay skills
+- [ ] Comprehension skills
 ## Chinese
+- [ ] Oral (Do after Econs, Phys, Computing and GP)
+
