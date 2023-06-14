@@ -1,0 +1,89 @@
+## Recursion
+- A recursive function is a function that calls itself
+- A recrusive function has 3 main features
+1. It is defined in terms of itself
+2. It calls itself with one or more similar but smaller problems
+3. It can repeat itself until a base case or terminating case is reached
+- Recursion is more elegant and uses lesser code than iterative solutions
+- A complex task can be broken down into simpler sub-problems using recursion, while iterative solutions may be difficult to program
+- A recursive solution to a mathematical problem that is recursive in nature is easier to design than an iterative one
+- But, recursion takes up a lot of memory and processing time form the multiple function calls
+## Trace tables
+- Trace tables are used to test an algorithm and predict step by step how the computer will run the algorithm
+- They also test the logic of an algorithm if there are errors that are not easily spotted
+- Each column in a trace table represents a variable, a condition or an output
+- Trace tables simulate what a computer would do if the program were to run
+- We complete the table to show how the variables change, what the conditions would resolve to, and/ or what outputs will be displayed
+### Iterative
+```Python
+def sum_num(num):
+	total = 0
+	while num >= 0:
+		total += num
+		num -= 1
+	return total
+```
+
+|num|total| num >= 0| Return value|
+|-|-|-|-|
+|5|0|True| |
+|4|5|True| |
+|3|9|True| |
+|2|12|True| |
+|1|14|True| |
+|0|15|True| |
+|-1|15|False| |
+| | | |15|
+### Recursive
+```Python
+def sum_num(num):
+	if num == 0:
+		return 0
+	else:
+		return num + sum_num(num-1)
+```
+
+|Call number| Function call| num| num == 0| Return value|
+|-|-|-|-|-|
+|1|sum_num(5)| 5| False|5 + sum_num(4)|
+|2|sum_num(4)| 4| False|4 + sum_num(3)|
+|3|sum_num(3)| 3| False|3 + sum_num(2)|
+|4|sum_num(2)| 2| False|2 + sum_num(1)|
+|5|sum_num(1)| 1| False|1 + sum_num(0)|
+|6|sum_num(0)| 0| True|0|
+|5|sum_num(1)| 1| False|1 (1+0)|
+|4|sum_num(2)| 2| False|3 (2+1)|
+|3|sum_num(3)| 3| False|6 (3+3)|
+|2|sum_num(4)| 4| False|10 (4+6)|
+|1|sum_num(5)| 5| False|15 (5+10)|
+## Trace tree
+- A trace tree shows the flow of recursion
+- Show the calling and the returning of values
+![[trace tree.png]]
+## More complex example
+```python
+def fib_r(n):
+	if n <= 1:
+		return 1
+	else:
+		return fib_r(n-1) + fib_r(n-2)
+```
+![[fibbonaci trace table.png]]
+![[fibbonaci trace tree.png]]
+## Stacks
+- When a function is called, a certain amount of memory is set aside for the function to use for purposes such as storing local variables and a functions address in memory
+- This memory is known as a stack frame
+- This allows the program to return to the proper place after a function call
+- When a function calls another functions, the callers stack space is kept intact and a new space is created to handle the function call
+- When a function finishes its work and returns to its caller, the associated space is released
+### Example
+```python
+def factorial_r(n):
+	if n == 1:
+		return 1
+	else:
+		return n * factorial_r(n-1)
+print(factorial_r(4))
+```
+![[stack 1.png]]
+![[stack 2.png]]

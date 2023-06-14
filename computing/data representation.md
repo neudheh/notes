@@ -1,0 +1,162 @@
+## Denary
+- The number system we use everyday
+- Base 10 - 10 distinct digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 
+- Each digit is a power to the 10 higher than the previous
+- Consider $346 = (3 \times 10^2) + (4 \times 10^1) + (2 \times 10^0)$
+## Binary
+- Binary system is used by computers
+- Base 2 - 2 Distinct digits: 0, 1
+- Each digit is a power to the 2 higher than the previous
+- A binary digit is called a bit
+- A group of 8 bits is called a byte
+- Consider $101110 = (1 \times 2^5) + (0 \times 2^4) + (1 \times 2^3) + (1 \times 2^2) + (1 \times 2^1) + (0 \times 2^0) = 46$
+## Hexadecimal
+- Base 16- 16 distinct digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+- A to F represent denary values 10 to 15
+-  Each digit is a power to the 16 higher than the previous
+- Consider $2A6 = (2 \times 16 ^ 2) + (10 \times 16 ^ 1) + (6 \times 16 ^ 0) = 678$
+## Denary to Binary
+### Division by 2
+1. Divide the denary number by 2, and write down the quotient and remainder
+2. Repeat the division until the quotient is 0
+3. Write the remainders in reverse
+- Converting 135 to binary
+
+|Denary|Quotient|Remainder|
+|-|-|-|
+|135/2 | 67| 1|
+|67/2| 33| 1|
+|33/2 | 16| 1| 
+|16/2| 8| 0|
+|8/2| 4| 0|
+|4/2| 2| 0|
+|2/2| 1| 0|
+|1/2 | 0| 1|
+- 135  = 10000111
+### Place values table
+1. Write down a table of each power of 2 up to the largest power of 2 that is still lesser than the number
+2. The largest power of 2 closest to the number has a value of 1
+3. Subtract the largest power of 2 from the number
+4. Repeat until you have a result of 0
+5. Set the remaining digits to 0
+6. Read the number from left to right
+- Converting 135 to binary
+- 128 is the closest power of 2
+
+| 128 | 64| 32| 16| 8| 4| 2| 1|
+|-|-|-|-|-|-|-|-|
+| | | | | | | | |
+1. 135 - 128 = 7
+
+| 128 | 64| 32| 16| 8| 4| 2| 1|
+|-|-|-|-|-|-|-|-|
+|1 | | | | | | | |
+2. 7 - 4 = 3
+
+| 128 | 64| 32| 16| 8| 4| 2| 1|
+|-|-|-|-|-|-|-|-|
+| 1| | | | |1| | |
+3. 3 -2 = 1
+
+| 128 | 64| 32| 16| 8| 4| 2| 1|
+|-|-|-|-|-|-|-|-|
+| 1| | | | |1| 1| |
+5. 1-1 = 0
+
+| 128 | 64| 32| 16| 8| 4| 2| 1|
+|-|-|-|-|-|-|-|-|
+| 1| | | | |1| 1|1|
+6. Fill up gaps with zero
+
+| 128 | 64| 32| 16| 8| 4| 2| 1|
+|-|-|-|-|-|-|-|-|
+| 1|0|0|0|0|1| 1|1|
+- 135 = 10000111
+## Denary to Hexadecimal
+### Division by 16
+1. Divide the denary number by 16, and write down the quotient and remainder
+2. Write the remainder into its hexadecimal digit
+3. Repeat the division until the quotient is 0
+4. Write the remainders in reverse
+- Converting 1899 into hexadecimal
+
+|Denary| Quotient| Remainder| Hexadecimal|
+|- |- |- | -|
+|1899/16| 118| 11| B|
+|118/16| 7| 6| 6|
+|7/16|0|7| 7|
+- Therefore 1899 = 76B
+### Place values table
+1. Write down a table of each power of 16 up to the largest power of 16 that is still lesser than the number
+3. Subtract the largest power of 16 multiplied by a number from 1-15 from the number
+4. Write down the hexadecimal equivalent of the number
+5. Repeat 2-3 until you have a result of 0
+6. Set the remaining digits to 0
+7. Read the number from left to right
+- Converting 1899 into hexadecimal
+- 256 is the largest power of 16
+
+|256| 16| 1|
+|- |-|-|
+| | | |
+- 256 x 7  = 1792, which is the number closest to 1899
+
+|256| 16| 1|
+|- |-|-|
+|7| | |
+- 1899 - 1792 = 107
+- 16 is the largest power of 16
+- 16 X 6 = 96, which is the largest number closest to 107
+
+|256| 16| 1|
+|- |-|-|
+|7|6| |
+- 107 -96 = 11
+- 1 is the largest power of 16
+- 11 X 1 = 11, which the the largest number closest to 11
+- Hexadecimal equivalent of 11 is B
+
+|256| 16| 1|
+|- |-|-|
+|7|6|B|
+- Fill in remainder
+- 1899 = 76B
+## Binary to Denary
+1. Multiply each digit to its corresponding power of 2
+2. Add them together
+$11000110$
+$= (1 \times 2^7) + (1 \times 2^6) + (0 \times 2^6) + (0 \times 2^5) +(0 \times 2^4) +(0 \times 2^3) +(1 \times 2^2) +(1 \times 2^1) +(0 \times 2^1)$
+$= 198$
+## Binary to Hexadecimal
+1. Break up the number into 4 binary digits
+2. Convert each digit to its binary equivalent
+
+|0|1|2|3|4|5|6|7|
+|-|-|-|-|-|-|-|-|
+|0000|0001|0010|0011|0100|0101|0110|0111|
+
+|8|9|A|B|C|D|E|F|
+|-|-|-|-|-|-|-|-|
+|1000|1001|1010|1011|1100|1101|1110|1111|
+4. Read the binary number from left to right
+## Hexadecimal to Denary
+1. Convert each digit to its denary equivalent
+2. Multiply each digit to its corresponding power of 16
+3. Add them together
+$C7F$
+$= (12 \times 16^2) + (7 \times 16^1) + (15 \times 16^0)$
+$= 3199$
+## Hexadecimal to binary
+1. Break up the number into groups for 4 binary digits, starting from the right
+2. If a group on the left does not have 4 digits, add leading zeroes untill there are 4 digits
+3. Convert each digit to its hexadecimal equivalent
+3. Read the hexadecimal number from left to right
+
+|0000|0001|0010|0011|0100|0101|0110|0111|
+|-|-|-|-|-|-|-|-|
+|0|1|2|3|4|5|6|7|
+
+|1000|1001|1010|1011|1100|1101|1110|1111|
+|-|-|-|-|-|-|-|-|
+|8|9|A|B|C|D|E|F|
+

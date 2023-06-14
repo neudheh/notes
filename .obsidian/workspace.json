@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f6d3d899791171",
+        "id": "58a03a1470b563cb",
         "type": "tabs",
         "children": [
           {
-            "id": "ae49a57e3aa233d5",
+            "id": "cc19b1ab522f10af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "economics/Externalities and imperfect info.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "economics/Externalities and imperfect info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "economics/Externalities and imperfect info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "economics/Externalities and imperfect info.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,43 +139,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae49a57e3aa233d5",
+  "active": "cc19b1ab522f10af",
   "lastOpenFiles": [
-    "economics/Demand and Supply.md",
-    "economics/Elasicity.md",
-    "economics/Central Problem of Economics.md",
-    "economics/About Economics.md",
-    "computing/intro to python.md",
-    "computing/decision tables 101.md",
-    "computing/pseudocode 101.md",
+    "mye todo.md",
+    "physics/measurement.md",
+    "physics/kinematics.md",
+    "images/Physics/parallelogram method.png",
+    "images/Physics/Paralellogram method.png",
+    "physics/forces.md",
+    "physics/dyanmics.md",
+    "physics/work, energy, and power.md",
+    "images/Physics/centre of gravity of lamina.png",
+    "computing/file io.md",
+    "computing/html and css.md",
+    "computing/flask and jinja.md",
+    "computing/data representation.md",
+    "reminders.md",
+    "computing/functions.md",
     "computing/search algorithms.md",
     "computing/recursion.md",
-    "computing/number systems.md",
-    "computing/flask and jinja.md",
-    "computing/html and css.md",
-    "computing/functions.md",
+    "images/Computing/stack 1.png",
+    "images/Computing/stack 2.png",
+    "images/Computing/fibbonaci trace tree.png",
+    "images/Computing/fibbonaci trace table.png",
+    "images/Computing/trace tree.png",
     "computing/data structures.md",
     "computing/control flow.md",
-    "computing/file io.md",
     "computing/data types.md",
-    "computing/practical.md",
-    "computing/trace tables 101.md",
-    "computing/trace trees 101.md",
-    "computing/flowchart 101.md",
-    "images/Computing/Decision table step 4a.png",
-    "images/Computing/Decision table step 4b.png",
-    "images/Computing/Decision table step 3.png",
-    "images/Computing/Flowchart elements.png",
+    "computing/intro to python.md",
     "images/Computing/Decision table step 2.png",
-    "mye todo.md",
-    "images/Computing/Decision table step 1.png",
-    "Reminders.md",
-    "images/Computing/Flowchart for while loop.png",
-    "images/Computing/Iteration construct.png",
-    "images/Computing/Selection construct.png",
-    "images/Computing/Sequence construct.png",
-    "physics/Dynamics.md",
+    "images/Computing/set comparisons.png",
+    "computing/practical.md",
+    "computing/decision tables 101.md",
+    "computing/flowchart 101.md",
+    "computing/pseudocode 101.md",
+    "economics/Externalities and imperfect info.md",
     "physics/Measurement Part 2.md",
-    "economics/Externalities and imperfect info.md"
+    "math/Curve sketching 1.md"
   ]
 }

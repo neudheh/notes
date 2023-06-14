@@ -1,0 +1,316 @@
+## Literals
+- Values are known as literals
+- Literals can be of any data type
+- There are 4 data types in Python
+1. Integers (`int`)
+2. Floating Point value (`float`)
+3. String (`str`)
+4. Boolean (`bool`)
+- There is also a special `None` value that is used to keep track that a value is missing, or there are no suitable values to be assigned to the variable
+## Variables
+- Variables are named values
+- We can assign a value to a variable as such 
+```Python
+year = 2021
+```
+- Whatever comes after the equal sign can be a literal, calculations and other variables
+- Python will evaluate what comes after the equals sign first before assigning the variable the value
+- A variable is initialised when a values if fdirst stored in it
+- A variable only keeps the last stored value that was assigned to it and discards all previous values
+### Naming conventions
+- Only contain alphanumeric characters and underscores
+- Cannot start with a number
+- Cannot have spaces of special symbols
+- Cannot have Python keywords
+
+## Type casting
+- Type casting is converting a value from one type to another
+- Use the Python name of the value like a function
+```Python
+x = 0.5
+str(x)
+int(12.3)
+```
+## Integers
+- Integers (`int`) are positive and negative whole number, including 0
+- The literal format for Python is just the digits written out with a positive negative sign in front
+```Python
+69
+-420
+```
+- They have no limit, positive or negative, in the whole numbers they can represent
+- We can also type out integers in different number systems with their prefixes
+
+|Number system| Prefix|
+|-|-|
+|Binary| `0b`/ `0B`|
+|Octal | `0o`/ `0O`|
+|Hexadecimal | `0x`/ `0X`|
+- The functions `bin()` and `hex()` can convert a decimal number to binary and hexadecimal respectively
+## Floating point value
+- A floating-point number (`float`) is a real number
+- The literal format of a float is the digits of the float with the decimal point included explicitly
+- If theres is no decimal place, Python will treat it as an int
+```Python
+3.14
+-4.20
+69.0
+```
+- Another way to write floats is with an `e`/ `E` in the middle of two numbers
+- The second number is the power of 10 the number is to
+```Python
+314e-2 # equal to 314 X 10 ^ -2 = 3.14 
+```
+- Floats are not accurate due to the way they are stored
+- Thye have to be between $1.79 \times 10^{308}$ and $-1.79 \times 10^{308}$ , or it will be converted to the special value of infinity, represented by `inf` or `-inf`
+## Arithmetic operators
+
+|Operators|Function|
+|- |-|
+|`+`| Addition|
+|`-`| Subtraction|
+|`*`| Multiplication|
+|`/` | Divison|
+|`//` | Floor division (Divides the two values and rounds them down to the nearest integer)|
+|`%`| Modulus (Returns the remainder of the two values divided by each other)|
+|`**`| Exponentiation (To the power of)|
+
+- All of these operators can be used on `int` and `float`
+- Division always results in a `float`
+- Sometimes, we need to use a variable for a calculation and then update the value with the result
+- Python provides us with assignment operators to make it faster to do these operations
+
+|Operator| Example| Equivalent|
+|-|-|-|
+|`+=`| `x += a`| `x = x + a`|
+|`-=`| `x -= a`| `x = x - a`|
+|`*=`| `x *= a`| `x = x * a`|
+|`/=`| `x /= a`| `x = x / a`|
+|`//=`| `x //= a`| `x = x // a`|
+|`%=`| `x %= a`| `x = x % a`|
+|`**=`| `x **= a`| `x = x ** a`|
+
+## Strings
+- Strings (`str`) are a string of characters
+- Strings are declared with a single (`'`) or double (`"`)  quotes at the beginning and the end of the string
+```Python
+"Hello world!"
+'Hello mom!'
+```
+- A multi line string can be declared using 3 single (`'`) or double (`"`)  quotes at the beginning and the end of the string
+- But they are mostly only used to make docstrings
+```Python
+"""
+Here I sit and hesitate,
+Should I shit or masturbate
+"""
+```
+- We can also create strings with unicode by prefixing `\u` followed by the unicode number for the character
+```Python
+"\u7434" #This is 琴
+```
+- We can also create strings by entering the ASCII code of a character into the function `ord()`
+```Python
+chr("N") # Returns 78
+ord(78) # Returns N
+```
+- The ASCII value of the character can be obtained using `chr()`
+- To convert a uppercase to a lowercase letter, we add 32 to its ASCII value
+### Escape characters
+- Escape character help to include character in a string, which would otherwise result in a syntax error if written as-is
+- It can also continue a long string by putting a `\` at the end of the line
+
+|Escape character| Meaning|
+|-|-|
+|`\\`| Backslash (\\)|
+|`\'`| Single quote (')|
+|`\"`| Double quote (")|
+|`\n` | New line|
+|`\t`| Tab|
+
+### Indexing and slicing
+- Each character in a string can be accessed by an index
+- The first character of the string will be 0
+- The last character of the string can also have an index of -1, the second last -2, etc...
+- Strings are immutable, meaning we cannot replace a character in the string by using `x[0] = "R"`
+
+```python|
+string = "Hello World!"
+print(string[0])
+print(string[1])
+print(string[2])
+print(string[-1])
+```
+
+```Terminal
+H
+e
+l
+!
+```
+- We can access multiple characters by slicing
+- `x[a:b]` returns all character in x from index `a` to `b-1`
+- We can specify a third value, c in `x[a:b:c]` to indicate the steps
+- C can be negative to go backwards
+- Not specifying b slices to the end of the string
+- Not specifying a slices from the beginning of the string
+- For indexing and slicing, it the index specified is out of the range (i.e. longer than the string), there will be an error
+- If a > b, assuming that c is positive, there will be an error
+- If c is negative, there will be no error
+
+```Python
+string = "Hello world!"
+print(string[0:2])
+print(string[:4])
+print(string[2:])
+print(string[0:6:2])
+print(string[::-1])
+print(string[5: 1: -1])
+```
+
+```Terminal
+He
+Hell
+llo World!
+Hlo
+!dlroW olleH
+ oll
+```
+
+### Operators
+- `+` can be used to join strings
+```Python
+print("spider" + "man")
+```
+
+```Terminal
+spiderman
+```
+- `*` can be used to repeat strings
+```Python
+print("Miguel O Hara" * 3)
+```
+
+```Terminal
+Miguel O HaraMiguel O HaraMiguel O Hara
+```
+### len()
+- The `len()` method returned the number of characters in a string
+```Python
+print(len("Hello"))
+```
+
+```Terminal
+5
+```
+### Methods
+- All of these methods can be used by `x.method("argument")`
+
+|Method|Description|
+|-|-|
+|`count(a)`| Count how many times the argument `a` occurs in the string|
+|`find(a)`| Returns the index of the argument `a` when it is found in the string, else it returns -1|
+|`index()`| Same as find, but it raises an error if not found
+| `lower()` | Converts all letters to lowercase and returns it|
+| `upper()`| Converts all letters to uppercase and returns it|
+|`title()` | Converts the first character of each word to uppercase and returns it|
+|`strip(x)`| Removes all whitespace from the beginning and the end of the string.  A value x can be specified to strip `x` amount of character from the beginning and the end|
+|`lstrip(x)` | Same as `strip()` but only strips whitespace from the front|
+|`rstrip(x)` | Same as `strip()` but only strips whitespace from the back|
+|`isalphanum()`| Returns true if a string is alphanumeric, else it returns false|
+|`isalpha()`| Returns true if all characters are in the alphabet, else it returns false|
+|`isnumeric()`| Returns true if all characters are numbers, else it returns false|
+|`isupper()`| Returns true if all character in the string are uppercase, else it returns false|
+|`islower()`| Returns true if all characters in the string are lowercase, else it returns false|
+|`isspace()`|Returns true if a string if a string only contains whitespace characters, else it returns false|
+|`startswith(a)`| Returns true if a string starts with `a`, else it returns false|
+|`endswith(a)`| Returns true if a string ends with `a`, else it returns false|
+|`split(a)`| Splits a string into a list at a, and returns it|
+|`replace(a,b, c)`| Replaces each value of `a` in the string with `b`, `c` times if specified and returns it|
+
+### .format()
+- The `format()` value formats the specified values and inserts then into the string's placeholder
+```Python
+message = "{} is {} this year!".format("neud", 17)
+print(message)
+```
+
+```Temrinal
+neud is 17 this year!
+```
+
+- `format()` can take named indexes and numbered indexes
+```Python
+message = "{name} is {age} this year! {name}'s favourite color is {color}".format(name = "neud", age = 17, color = "green")
+
+message = "{0} is {1} this year! {0}'s favourite color is {2}".format("neud", 17,"green")
+```
+
+```
+neud is 17 this year! neud's favouite colour is green
+neud is 17 this year! neud's favouite colour is green
+```
+
+- `format()` can also take in format types inside the placeholders
+- Place then after a colon in the order of the table
+- Multiple types can be combined, just type them after the other with no separation
+
+|Type| Description|
+|-|-|
+|`a<b`| Left aligns the result, making it `b` characters long, filling it up with `a`, if a is not specified, it fils it up with spaces|
+|`a>b`| Right aligns the result, making it `b` characters long, filling it up with `a`, if a is not specified, it fils it up with spaces|
+|`a^b`| Center aligns the result, making it `b` characters long, filling it up with `a`, if a is not specified, it fils it up with spaces|
+|`a=b`| Puts a negative sign in front of the number if `b` is negative, then left aligns the result, making it `b` characters long, filling it up with `a`, if a is not specified, it fils it up with spaces|
+|`+`| Uses a +/- to indicate if a number is positive or negative|
+|`.af`|Makes a number `a` decimal places|
+|`.ag`|Makes a number `g` decimal places|
+
+### f-strings
+- An f string is defined with `f"` or `f'` at the start of a string and `"`/ `'` at the end
+- It allows you to format values too, but better
+- No types though
+```Python
+age= 17
+name = "neud"
+print(f"{name} is {age} this year!")
+```
+
+```Terminal
+neud is 17 this year!
+```
+## Booleans
+- Booleans are a `True` or `False` value
+- Objects also have a true or false value
+- `0`, empty strings, empty lists, empty tuples, empty dictionaries, and `None` values have a `false` value
+- They can be written as is in an if statement, or evaluated  using `bool()`
+```Python
+bool("Hello")
+x = "Hi!"
+if x:
+	pass
+```
+## Boolean operators
+- These operators return a boolean when comparing two numbers
+
+|Operator| Function|
+|-|-|
+|`>`|Greater than|
+|`<`| Lesser than|
+|`>=`| Greater than or equal to|
+|`<=`| Lesser than or equal to|
+|`==`| Equal|
+|`!=`| Not equal|
+- These operators return a boolean when comparing two strings
+
+|Operator| Function|
+|-|-|
+|`a in b`| If a string `a` is inside string `b`|
+|`a in b`| If a string `a` is not inside string `b`|
+
+### Logical operators
+
+| Operator| Function|
+|-|-|
+|`and`|Return true if both are true|
+|`or`| Return true if either one is true|
+|`not`| If it is false, return true and vice-versa|

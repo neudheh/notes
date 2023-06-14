@@ -1,0 +1,133 @@
+## Subroutines
+- Sub routines allow us to manage and structure our programs, allowing us to break up programs into smaller chunks of code
+- This is called modular design
+- There are two types of subroutines: Functions and procedures
+- Functions accept input and process them into output
+- Functions have to have at least one return value, which is the output
+- Procedures are subroutines that do not return values
+### Advantages
+#### Organisation
+- Subroutines help break programs into smaller and modular chunks
+- They are almost like a mini-program that we can write separately from the main program, without having to think of the rest of the program while writing it
+- This allows us to reduce a complicated program into smaller, more manageable chunks, reducing the overall complexity
+#### Abstraction
+- We can use a subroutine at any time, using its unique name and appropriate inputs
+#### Reusability
+- It supports code reusability and reduces repetitive code
+- It can also be shared with other programs, reducing the need to code from scratch
+#### Modifying
+- When we need to extend out program to handle a case it didn't handle before, sub routines allow us to make the change in one place and have that change take effect every time the subroutine is called
+#### Testing
+- The program is easier to test and debug since each subroutine is self-contained
+- Once a subroutine is working properly, there is no need to test it again unless it has been modified
+## Defining a function
+```python
+def my_cool_function(parameters):
+	"""docstring"""
+	statements(s)
+```
+- The `def` keyword marks the start of a function
+- Function name are unique 
+- Functions need to be called to be run
+### Parameters
+- Functions can take in optional values, known as parameter before running the code block
+```python
+def greet(name)
+	print(f"Hi, {name}!")
+greet("neud")
+```
+```Terminal
+Hi, neud!
+```
+- When the function is called, arguments need to be passed into the function calls
+- The parameters take the arguments passed
+- So in this case, `name = "neud"`
+- Functions can take in multiple parameters
+```python
+def max(a,b):
+	if a > b:
+		print(a)
+	elif a < b:
+		print(b)
+
+max(1,10)
+```
+```Terminal
+10
+```
+- Functions can also have default parameters
+```Python
+def repeat(text, times= 1)
+	while times > 0:
+		print(text)
+repeat("hello world")
+```
+```Terminal
+hello world
+```
+
+- In this case, if the function is called without specifying times, times will take on a value of 1
+### Docstrings
+- Docstrings are used to describe what the function does, an can be seen when using an code editor that shoes what a function does
+- Written with three single or double quotes (`"`/ `'`)
+### return
+- Return outputs a value
+```python
+def max(a,b):
+	if a > b:
+		return a
+	elif a < b:
+		return b 
+
+x = max(1,10)
+print(x)
+```
+```Terminal
+10
+```
+- Here, `x` is assigned the return value of `max()`, which is 10 in this case
+- If a return value is not specified, the function outputs `None`
+- Return statements exit the function
+## Global and local variables
+- Local variables are variables defined inside the function
+- Global variables are variable defined outside of the function
+- local vairable cannot be used globally
+```python
+def repeat(text, times= 1)
+	while times > 0:
+		print(text)
+repeat("hello world")
+print(text)
+```
+```Terminal
+hello world
+NameError: name 'text' is not defined
+
+```
+- Functions can take global variables as local variables, but cannot edit the global vairable
+```python
+message = "Hello world"
+def hello():
+	message = "Hi mom!"
+	print(message)
+hello()
+print(message)
+```
+```Terminal
+Hi mom!
+Hello world
+```
+- The global keyword can change that
+```python
+message = "Hello world"
+def hello():
+	global message
+	message = "Hi mom!"
+	print(message)
+hello()
+print(message)
+```
+```Terminal
+Hi mom!
+Hi mom!
+```

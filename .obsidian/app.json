@@ -7,5 +7,6 @@
     "downscalePercent": 85
   },
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "showFrontmatter": false
 }

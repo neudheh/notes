@@ -1,0 +1,136 @@
+## Algorithms
+- ==An algorithm is a step- by-step procedure with well defined instructions to solve a given problem==
+## Constructs
+### Sequence construct
+- ==A sequence construct involves performing multiple instructions in a fixed order==
+- It is important to ensue the algorithm works as intended
+- Any other order and the algorithm will produce unintended results
+![[Sequence construct.png]]
+### Selection construct
+- ==A selection construct involves choosing between two or more branches based on a particular condition==
+- Selection is the process of making a decision
+- Selection allows us to include more than one path in an algorithm
+- Some steps are performed under certain conditions, otherwise different steps (or no steps) are performed
+- Two branches usually follow from a selection
+![[Selection construct.png]]
+## Iteration construct
+- An iteration construct involves repeating instructions while a particular condition is true
+- An iteration, also known as a loop, allows an algorithm to repeat certain steps until told to stop or a particular condition is met
+- It allows us to simplify an algorithm by removing repetitive steps
+![[Iteration construct.png]]
+## if statements
+- An `if` statement is a selection construct that is used to check a condition
+```Python
+if password == "xiaosleftnut":
+	print("access granted")
+```
+- We can add an `else` to do something else if the initial condition is not met
+```Python
+if password == "xiaosleftnut":
+	print("access granted")
+else:
+	print("access denied")
+```
+- We can also add `elif`, which is short for else if, and is another condition that is checked
+```Python
+if password == "xiaosleftnut":
+	print("access granted")
+elif password == "xiaosrightnut":
+	print("access granted")
+else:
+	print("access denied")
+```
+## while loops
+- A `while` loop runs the code while the condition is true
+```Python
+count = 1 
+while count <= 5:
+	print(count)
+	count += 1
+```
+
+```Terminal
+1
+2
+3
+4
+5
+```
+## for loops
+- A `for` loop loops over the items in the sequence
+- A sequence can be a string, an array, or a range
+- It needs an iterating variable, which represents the current element of the sequence it is on
+```Python
+for i in "xiao":
+	print(i)
+```
+```Terminal
+x # i = x
+i # i = i
+a # i = a
+o # i = o
+```
+- The `range(a,b)` function generates an array of numbers from `a` inclusive and `b` exclusive
+- If `a` is not specified, it starts from 0
+```Python
+for i in range(3):
+	print(i)
+print("")
+for i in range(1,3):
+	print(i)
+```
+```Terminal
+0
+1
+2
+
+1
+2
+```
+## continue, break, and pass
+- `continue` ends the current iteration of the loop and continues with the next
+```Python
+for i in range(5)
+	if i == 3:
+		continue
+	print(i)
+```
+```Terminal
+1
+2
+4
+```
+- `break` ends the loop
+```Python
+for i in "miles morales"
+	if i == " ":
+		break
+	print(i)
+```
+```Terminal
+m
+i
+l
+e
+s
+```
+- `pass` acts s a placeholder when we don't know what to code inside of the condition
+
+```Python
+for i in "spidergwen"
+	if i == "g":
+		pass
+	print(i)
+```
+```Terminal
+s
+p
+i
+d
+e
+r
+g
+w
+e
+n
+```

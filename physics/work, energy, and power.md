@@ -1,0 +1,88 @@
+## Work done by a constant force
+- ==The work done by a constant force on an object is defined as the product of the **component of the force along the direction of displacement** and the **magnitude of the displacement**== $$ W = (Fcos\theta)\Delta x$$
+- $F$: Constant force applied
+- $\Delta x$: Displacement of the object
+- $\theta$: Angle between $F$ and  $\Delta x$
+![[Work done by a constant force.png]]
+- Work is a scalar quantity
+- SI unit of Joules ($J$)
+## Work done by a variable force
+- The work done by a variable force is the area under the force displacement curve
+## Work done by a gas
+- For a gas in a cylinder with a piston,
+	- The force exerted by a gas is equal to $F= \rho A$
+	- The force exerted by the gas causes the piston to move by $\Delta x$
+	- The volume of the gas also changes
+$$ W = (\rho A)(\Delta x) = \rho (\Delta V)$$
+- $\rho$ is the pressure of the gas
+- $A$ is surface area in contact with the piston
+- $\Delta x$ is the distance moved by the piston
+- $\Delta V$ is the change in volume of the gas
+- This is for a constant external pressure![[Work done by a gas.png]]
+## Energy
+- ==Energy is the capacity to do work==
+- SI unit of Joules ($J$)
+- There are multiple types of energy
+	1. Chemical
+	2. Nuclear
+	3. Radiant
+	4. Electrical
+	5. Internal (Potential/ Kinetic)
+	6. Mechanical (Kinetic energy, Gravitational Potential Energy, Elastic Potential Energy)
+## Kinetic energy
+- The kinetic energy of an object is the energy it posses by virtue of its motion
+![[Kinetic energy.png]]
+- Consider an object of mass m moving to the right under the action of a constant net force $F_{net}$
+	- According to Newton's second law, $F = ma$, the object has a constant acceleration of $a$
+	- If the displacement of the object is $\Delta x$, the work done by the force is $$W_{net} = F_{net} \Delta x$$
+	- For constant acceleration, we can use the kinematics equation $v^2 = u^2 + 2as$
+	- Thus, $$W_{net} = \frac{m(v^2- u^2)}{2} = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
+	- If the object starts from rest (i.e. no initial velocity) $$KE = \frac{1}{2}mv^2$$
+## Gravitational potential energy
+- Potential energy is the energy stored in a body or system as a result of its position, shape or state
+- It it always associated with a system of 2 or more interacting objects
+- Consider a book falling down to earth
+- The change in the books height is $\Delta h$
+- Ignoring air resistance, the only force acting on the book is gravitational force
+- As  $Weight = Mass \times Gravitational\ Field\ Strength$, $$W_g = mg(\Delta h)$$
+- The work done by gravitational force is equal to the loss in GPE
+- The work done against gravitational force is equal to the gain in GPE
+- This equation is valid only near the earth's surface, where $g$ is approximately constant
+## Conservative and non-conservative forces
+### Conservative forces
+- A force is conservative if the work it does on an object moving between two points is independent of the path it takes
+- In other words, the works done on an object by a conservative force depends only on the initial and final positions of the object
+- The direction of the force does not depend on the path taken
+![[Conservative force.png]]
+- Gravitational force, elastic forces, electrostatic forces are conservative forces
+- The work done by a conservative force is equal to the loss in the corresponding PE
+- The work done against a conservative force is equal to the loss in the corresponding PE
+- The work done by a conservative does not change the total energy (Kinetic energy + Potential energy) of the system
+### Non-conservative forces
+- A force is non-conservative if the work it does on an object moving between two points is dependent on the path it takes between its initial and final points
+- The direction of the force changes based on the path taken
+- Friction, air drag and propulsive forces are non-conservative forces
+- If work is done by a non-conservative force, total energy of the system will increase
+- If work is done against a non-conservative force, total energy will decrease
+### Conservative Force and potential energy in a uniform field
+- The gradient of a potential energy - position graph is equal to the magnitude force but negative
+## Principle of conservation of energy
+- The principle of conservation of energy states energy cannot be created or destroyed; it can be transformed from one form to another
+- The total energy of a closed system is constant
+## Power
+- Power is the rate of energy transfer / work done
+- SI unit of Watts ($W$)
+- Instantaneous power: $P = \frac{dW}{dt}$
+- Average power: $P = \frac{\Delta W}{\Delta t}$
+- For a constant force F moving at velocity V,
+	- Instantaneous power: $P = \frac{dW}{dt} = F\frac{ds}{dt}= Fv$
+	- Average power: $P = \frac{dW}{dt} = F\frac{\Delta x}{\Delta t} = Fv$
+
+$$P = FV$$
+- P: Power
+- F: Force
+- V: Velocity
+### Efficiency
+$$Efficiency = \frac{Useful\ Power\ Output}{Total\ Power\ Input}$$
+Over a period of time,
+$$Efficiency = \frac{Useful\ Energy\ Output}{Total\ Energy\ Input}$$

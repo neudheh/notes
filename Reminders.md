@@ -1,6 +1,5 @@
 #misc
 # DUE!!! NOW!!!
-- [x] Econs inequity SLS
 - [ ] MUGGGGG
 # Due later
 - [ ] Update portfolio to add my scholarship and my magic number web app
