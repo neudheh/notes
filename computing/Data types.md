@@ -263,7 +263,7 @@ neud is 17 this year! neud's favouite colour is green
 |`a=b`| Puts a negative sign in front of the number if `b` is negative, then left aligns the result, making it `b` characters long, filling it up with `a`, if a is not specified, it fils it up with spaces|
 |`+`| Uses a +/- to indicate if a number is positive or negative|
 |`.af`|Makes a number `a` decimal places|
-|`.ag`|Makes a number `g` decimal places|
+|`.ag`|Makes a number `a` significant places|
 
 ### f-strings
 - An f string is defined with `f"` or `f'` at the start of a string and `"`/ `'` at the end

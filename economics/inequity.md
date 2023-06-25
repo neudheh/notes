@@ -1,0 +1,120 @@
+## Equity
+- Allocative efficiency is where the combination of goods and services produced maximises the total economic welfare of society
+- Equity refers to the fairness in the distribution of output among individuals
+>[!NOTE]
+> There is a difference between the concepts of equity and equality
+> Equality is achieved when every person gets an equal portion
+> Equity is whether the output is split fairly (i.e. should the poor receive more?)
+> This makes equity a normative idea, and everyone will have differing views on what is considered to be a fair and just distribution of goods and services
+- Economists are concerned with how inequality in the distribution of income may give rise to inequitable distribution of goods and services in the free market
+- Individual's ability to pay for a good differs depending on their income levels, which in turn differ across individuals due to income inequality, thus the consequence is inequity in distribution of output in a free market
+- The free market dest not consider fairness in terms of who gets to consume the good and how much, and who does not as i only distributes goods to those who are willing and able to pay
+- Inequity, or unfairness in the distribution of goods and services can be attributed to 
+	- The prices of essential goods and services being too high and unaffordable to lower income groups
+	- Distribution of incomes being too unequal, with lower income groups being not able to afford goods and services
+## Income inequality
+- Income inequality refers to the extern to which income is distributed in an uneven manner among the population
+- It is measured using the Gini coefficient
+- The Gini coefficient measures the degree of inequality is income distribution across a population
+- It takes on a value between 0 and 1, where zero is perfect income equality 
+- The closer it is to one, the greater the income inequality in the nation
+- It is calculated with the aid of a Lorenz curve, which is a graph showing the cumulative proportion of households, ranked according to their household income on the horizontal axis and the vertical axis showing the cumulative proportion of household income
+- The Gini coefficient = $\frac{Area\ A}{Area (A + B)}$
+- The further the Lorenz curve deviates from the 45º total equality line, the larger the coefficient, and more more uneven the income distribution
+![[gini coffecient.jpg]]
+- If one country's Gini coefficient is relatively higher than most countries, it implies relatively high income inequality and vice versa
+- If the Gini coefficient of a country increases over time, there is widening income inequality within a country and vice versa
+## Causes of income inequality
+### Unequal factor endowments
+- In a free market economy where private property is allowed, households that own land, capitals, and shares in companies in addition to labour provided by individuals in the household, will be likely to earn a much higher income than households that only own labour
+- Besides wages, these household will be earning rent, interest and profit
+- The rich also tend to provide their children with better education, increasing their chances of getting better education in the future
+- The wealthy often leave their offspring with hefty inheritance, jump-starting the process of wealth accumulation for the next generation
+- Greater wealth inequality means a larger difference in individuals starting points in terms of possessing more or lesser factors of production, leading to greater income inequality
+### Differences in prices of the same factor in production
+- Income inequality could also arise between the same types of factors of production, such as labour
+- There are different types of labour, skilled and unskilled labour
+- A highly skilled individual working as a professional is likely to earn more than an unskilled individual working in a more menial occupation
+## Wage differentials
+- In the labour market, the equilibrium wage rate is determined by the demand for and supply of labour
+- In the labour market, the demand for labour comes from firms as they need workers to produce goods/ services to generate revenue
+- Households are the suppliers of labour
+## Changes in market demand for labour
+- The demand for a factor input such as labour is derived from the demand of the final product that the factor input produces
+- Demand for a factor input is known as derived demand
+- A market labour demand curve shows the number of workers firms are willing and able to hire at different wage rates, ceteris paribus
+### Movement along the labour demand curve
+- There is an inverse relationship between rage rate and quantity demanded for labour
+- An increase in wage rate will lead to a fall in quantity demanded
+- Firms aim to maximise profit, and will employ units of labour up to the point where the marginal benefit is equal to the marginal cost of doing so
+- The marginal benefit of employing labour is the additional revenue that each unit of labour generates for the firm
+- The marginal cost of employing labour is the wage rate
+- When the rage rate rises, the MC now exceeds the MB of hiring an additional unit of labour
+- A profit maximising firm will lower its employment of labour
+- It will either produce lesser output, or substitute capital (machinery) for labour
+### Shifting of the labour demand curve
+- The demand for labour depends on the additional revenue that each worker brings in relation to their wages
+- The revenue may change through a price of that output, or a change in labour productivity
+#### Change in the price of output due to demand of the good
+- Because labour is a derived demand, the demand for a particular good/ service would in turn affect the demand for labour
+- A rise in demand for healthcare due to Singapore's ageing population would result in an increase in its price, ceteris paribus
+- This increase in price of healthcare means that the additional revenue that each healthcare worker contributes t the firm is now much higher, raising the market demand for healthcare workers
+#### Change in labour productivity
+- An increase in the productivity of labour means a rise in output per worker, which increases the worker's revenue contribution to the firm, and vice versa
+- Cleaners would be more productive if they were provided better training, more equipment, or improved technology
+- The same number of cleaners would be able to clean a larger area, generating more revenue from the company
+- Thus, at the same rage rate, rational firms in the industry would find it attractive to hire more cleaners, increasing the market demand for cleaners
+#### Change in productivity of capital
+- Advancements in technology have improved the productivity of capital
+- This has lead to companies replacing workers with machines (capital-labour substitution) to reduce their cost of production
+- Self-serving kiosks replacing manned cashiers as fast food restaurants and supermarkets would reduce firm's need for labour, resulting in lower labour demand
+## Changes in market supply for labour
+- A market supply curve shows the number of person-hours that workings are willing and able to offer for hire at different wage rates
+### Movement along the labour supply curve
+- There is a positive relationship between wage rate and quantity supplied of labour
+- An increase in wage rate will lead to a rise in quantity supplied of labour
+- Workers are usually faced with a choice of having more income or leisure time when deciding how many labour hours to offer
+- Leisure induces and opportunity cost (i.e. income forgone)
+- An increase in the wage rate paid will increase the opportunity cost of leisure, causing them to reduce leisure hours and increase the quantity of labour hours supplied
+### Shifting of the labour supply curve
+- The labour supply depends on the number of people willing and able to work in that country/ industry/ profession at every wage rate
+#### Change in how many people can get qualified
+- A change in the number of appropriately skilled workers for a specific industry will change the labour supply in the market
+- This could be determined by government policies (licensing requirements for lawyers, doctors, pharmacists, accountants)
+- The supply of nurses would over time increase with higher government spending on education and training for nurses
+- Labour supply may be lower and more price inelastic for profession that involve some degree of difficulty in securing the requisite qualifications
+- A specialist doctor may require 10 or more years of post-graduate education and training, and relatively few people have the ability and desire to undergo such lengthy and difficult training
+- As such, the supply of labor for medical specialists is relatively low and price inelastic
+#### Change in population demographics
+- Population demographics affects the size of the working population
+- An ageing population means that labour supply is likely to fall over time, as the number of people in the population that enter retirement exceeds the number of new entrants in the workforce causing all labour markets to see a fall in supply
+- Population demographics could also be affected by changes in migration patterns
+#### Change in foreign labour policy (immigration)
+- Changes in a country's foreign labour policy could influence labour supply, especially for governments in open economies such as Singapore
+- Singapore allows the hiring of foreign labour from abroad to enhance the price competitiveness of global companies investing in Singapore
+- The influx of such usually low-skilled foreign labour results in a high supply of workers in low-skilled industries, causing wage rates of such occupations to be low
+- The gradual tightening of inflow of foreign labour in recent years has led to a fall in labour supply in general, and especially for jobs more heavily dependent on foreign labour
+#### Change in 'attractiveness' of job role
+- The 'attractiveness' of a specific job role is dependent on job characteristics such as working conditions, and the relative attractiveness of the job in relation to others, in monetary or non-monetary terms
+- Some people are attracted to join the healthcare sector as nurses or nursing assistance because of the opportunity to care for others
+- But, the long working hours discourage may from joining this profession
+- If the working conditions could be improved such as by shortening the shift duration, then more people would be willing to offer to join this profession at the same wage rate
+- But, ultimately the wage rate of any job depends on the demand and supply factors that influence the market for labour of that occupation
+## Wage differentials across occupations
+- Wage differentials can occur between occupations because there are differences in the levels of demand and supply for these occupations
+### Demand
+- Certain occupations generate more revenue than other for any given level of employment
+- A senior lawyer can help a law firm earn a huge amount of revenue through his legal services
+- A waiter creates considerably lesser revenue for a restaurant
+- This results in the market demand for waiters being relatively lower than the market demand for lawyers
+### Supply
+- For the same level of labour demand, the occupation with a lower labour supply will give rise to a higher wage rate compared to another with a higher labour supply, ceteris paribus
+### Wage differentials persisting over time
+- They may do so due to labour immobility, in terms of geographical and/ or occupational immobility
+- Occupational immobility is a situation where resources are not able to move freely form one occupation or sector to another
+- This is especially so for labour, as people find it difficult to switch quickly from one job to another
+- Different jobs require specific and different skills, so workers would likely need to undergo retraining to be able to switch to a different job
+- Geographical immobility is a situation where resources are not able to move freely from one location to another
+- People are often reluctant to relocate for work, which may result in a limited supply of certain professions in a particular country or region, causing wages of that occupation to remain high
+- Because of labour immobility, workers earning low wage rates are not able to join markets where the wage rates are high
+- Supply on better paying jobs remain low and wage rates continue to be high in those markets

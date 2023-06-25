@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58a03a1470b563cb",
+        "id": "c8cc7034af943c58",
         "type": "tabs",
         "children": [
           {
-            "id": "cc19b1ab522f10af",
+            "id": "46c8dcb44b60f71d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mye todo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mye todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mye todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mye todo.md"
+              }
             }
           }
         ],
@@ -126,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,42 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc19b1ab522f10af",
+  "active": "46c8dcb44b60f71d",
   "lastOpenFiles": [
+    "GP/essay.md",
+    "economics/policies to solve market faliure.md",
+    "GP/comprehension.md",
+    "economics/policies to solve inequity.md",
     "mye todo.md",
-    "physics/measurement.md",
-    "physics/kinematics.md",
-    "images/Physics/parallelogram method.png",
-    "images/Physics/Paralellogram method.png",
-    "physics/forces.md",
-    "physics/dyanmics.md",
-    "physics/work, energy, and power.md",
-    "images/Physics/centre of gravity of lamina.png",
-    "computing/file io.md",
-    "computing/html and css.md",
-    "computing/flask and jinja.md",
-    "computing/data representation.md",
+    "images/economics/public education.jpeg",
+    "images/economics/quota.jpeg",
+    "economics/inequity.md",
+    "economics/market faliure.md",
+    "economics/central problem of economics.md",
+    "economics/price mechanism.md",
+    "images/economics/total ban.jpeg",
+    "images/economics/free direct provision.jpeg",
+    "images/economics/subsidy.jpeg",
+    "images/economics/Production tax.jpeg",
+    "images/economics/Pollution tax.jpeg",
+    "economics/elasticity.md",
+    "Imperfect i.md",
+    "images/economics/government expenditure.jpeg",
+    "images/economics/elasticity subsidy.jpeg",
+    "images/economics/elasticity tax.jpeg",
+    "Untitled.md",
     "reminders.md",
-    "computing/functions.md",
-    "computing/search algorithms.md",
-    "computing/recursion.md",
-    "images/Computing/stack 1.png",
-    "images/Computing/stack 2.png",
-    "images/Computing/fibbonaci trace tree.png",
-    "images/Computing/fibbonaci trace table.png",
-    "images/Computing/trace tree.png",
-    "computing/data structures.md",
-    "computing/control flow.md",
-    "computing/data types.md",
-    "computing/intro to python.md",
-    "images/Computing/Decision table step 2.png",
-    "images/Computing/set comparisons.png",
-    "computing/practical.md",
-    "computing/decision tables 101.md",
-    "computing/flowchart 101.md",
     "computing/pseudocode 101.md",
-    "economics/Externalities and imperfect info.md",
-    "physics/Measurement Part 2.md",
-    "math/Curve sketching 1.md"
+    "computing/flowchart 101.md",
+    "computing/recursion.md",
+    "computing/search algorithms.md",
+    "computing/decision tables 101.md",
+    "computing/data representation.md",
+    "computing/flask and jinja.md",
+    "computing/html and css.md",
+    "computing/functions.md",
+    "computing/data structures.md",
+    "computing/file io.md",
+    "computing/control flow.md",
+    "GP",
+    "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 2.heic",
+    "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 1.heic",
+    "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a.heic",
+    "images/economics"
   ]
 }

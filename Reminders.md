@@ -1,6 +1,6 @@
 #misc
 # DUE!!! NOW!!!
-- [ ] MUGGGGG
+- [x] MUGGGGG
 # Due later
 - [ ] Update portfolio to add my scholarship and my magic number web app
 - [ ] Physics 6 SLS

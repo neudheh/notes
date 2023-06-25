@@ -1,7 +1,270 @@
 ## HTML template
+- This is how most HTML documents look like
+```html
+<!DOCTYPE html>
+<html lang="en-gb">
+	<head>
+		<title>neud's website</title>
+		<meta charset="uts-8">
+	</head>
+	<body>
+		<h1>Heading 1</h1>
+	</body>
+</html>
+```
+- `<!DOCTYPE html>` declares the the file type, helping the bowser what type of HTML document it is trying to parse and display
+- Browsers look for this doctype declaration to determine which rendering mode to use to render the site
+- `<html>` is the root (top-level element) of an HTML document, so it is also referred to as the root element
+- All other elements must be descendants of this element
+- `<head>` describes meta information about the site such as the title, and provides links to scripts and stylesheets the site needs to render and behave correctly
+- `<head>` is responsible for
+	- The document's title (the text that shows up in browser tabs) which is declared using the `<title>` tag
+	- Associated CSS files for styling using `<link rel="stylesheet" href="style.css"`>
+	- Associated Javascript files using `<script src="animations.js"></script>`
+	- The text encoding/ charset being used is declared using`<meta charset="utf-8">`
+	- Keywords, authors and descriptions all declared using the `<meta name="description" content="...">` tag
+- `<body>` has the actual content seen by the user
 ## Tags
+- These tags are placed under a `<body>` tag
+- Each tag needs to be closed with a backslash
+- `<p>` makes a paragraph
+```html
+<p>wow look at me im a sexy paragraph</p>
+```
+- `<ul>` makes an unordered list
+- `<li>` denotes a list item
+```html
+<ul>
+	<li>Item 1</li>
+	<li>Item 2</li>
+	<li>Item 3</li>
+</ul>
+```
+- We can also make numbered list using `<ol>` (Ordered lists)
+```html
+<ol>
+	<li>Item 1</li>
+	<li>Item 2</li>
+	<li>Item 3</li>
+</ol>
+```
+- Links can be added using the `<a>` tag
+- The website the link points to has to be declared using `href`
+```html
+<a href="">Mental illness</a>
+```
+- We can attack images too using the `<img>` tag
+- A closing tag is not needed
+- The image source must be included in the `src` attribute
+```html
+<img src="https://pbs.twimg.com/media/Ft2CAsvaAAEw_GD?format=jpg&name=4096x4096">
+```
+- Tables can be made using the `<table>` tag
+- Rows are defined using the `<tr>` tag
+- Headings have a `<th>` tag
+- Each piece of data in a table has to have a `<td>` tag
+```html
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Age</th>
+		<th>Martial status</th>
+	</tr>
+	<tr>
+		<td>neud</td>
+		<td>17</td>
+		<td>single and lonely somone please take me</td>
+	</tr>
+</table>
+```
+### Attributes
+- Attributes give vales and information to html elements
+- The `id` attribute helps to give a unique link for readers to jump to in a page
+- The `class` attribute helps to make it easier to style and write scripts for multiple elements at the same time
+- Every elements has it own attributes like `<a>`, `<img>`, `<link>`
 ## forms
+- A form can be declared by using `<form>`
+- Forms are used to submit informations
+- Form tags have an attribute of `method`, which is the method used to submit data
+- They also have an attribute of `action`, which is the webpage to submit the data to
+- `<input>` can take input through various types specified later
+- `<input>` has an attribute of `type` to specify the input type
+- `<input>` has an attribute of `name` to give a name to the data for use later on
+- They are also paired with a  `<label>` attritbute to help tell users what is meant to be inside the input field
+- `<label>`  can have a `for` attribute, telling that the label is for a certain input field
+- But, this input field must have an `id` attribute, which is passed into `for`
+### Text
+```html
+<form>
+	<label for="fname">First name:</label>
+	<input type="text" name="fname" id="fname" placeholder="First name">
+	<label for="lname">Last name:</label>
+	<input type="text" name="lname" id="lname">
+</form>
+```
+### Radio
+- We need to give the `<input>` element an attribute of `value` to tell it what value to submit when clicked
+```html
+<form>
+	<label for="apple">Apple:</label>
+	<input type="radio" id="apple" name="favfruit" value="apple">
+	<label for="banana">Banana:</label>
+	<input type="radio" id="banana" name="favfruit" value="banana">
+	<label for="graph">Grape:</label>
+	<input type="radio" id="grape" name="favfruit" value="grape">
+</form>
+```
+- Alternatively,
+```html
+<form>
+	<label><input type="radio" name="favfruit" value="apple">Apple</label>
+	<label><input type="radio" name="favfruit" value="banana">Bananna</label>
+	<label><input type="radio" name="favfruit" value="grape">Grape</label>
+</form>
+```
+### Checkbox
+- In a checkbox, each value has to be submitted with a different name
+```html
+<form>
+	<label for="vehicle1">I have a bike</label>
+	<input type="checkbox" id="vehicle1" name="vehicle1" value="bike">
+	<label for="vehicle2">I have a car</label>
+	<input type="checkbox" id="vehicle2" name="vehicle2" value="car">
+	<label for="vehicle3">I have a bicycle</label>
+	<input type="checkbox" id="vehicle3" name="vehicle3" value="bicycle">
+	<button type="submit">submit</button>
+</form>
+```
+### File
+```html
+<form>
+	<label for="file">Submit a file</label>
+	<input type="file" id="file" name="file">
+</form>
+```
+### Dropdown
+- We need to use `<select>` and `<option>` elements instead of the usual `<input>`
+```html
+<form>
+	<label for="dropdown">Choose a car:</label>
+	<select id="dropdown" name="car">
+		<option value="Audi">Audi</option>
+		<option value="BMW">BMW</option>
+		<option value="Mercedes">Mercedes</option>
+		<option value="Volkswagen">Volkswagen</option>
+	</select>
+</form>
+```
+### Button
+- We need to use `<button>` elements instead
+```html
+<form action="https://hsr.hoyoverse.com/en/">
+	<button>Click me to get a mental illness</button>
+</form>
+```
+### Submit
+```html
+<form>
+	<input type="submit">
+</form>
+```
+- We can also submit values along
+```html
+<form method="get">
+	<input type="submit" value="ur mom">
+</form>
+```
+- Submit button
+```html
+<form method="get">
+	<button type="submit">Submit</button>
+</form>
+```
 ## CSS
+- CSS is used to style up a HTML document
+- It follows a format as such
+- Internal/ external CSS:
+```css
+selector {
+	color: blue;
+	font-size: 2em;
+}
+```
+- Inline css:
+```css
+color: blue; font-size: 2em;
+```
+- Each property is separated by a semicolon `;`
+- Each selector's properties are contained within curly brackets `{}`
+- The different CSS properties can be found in the insert
 ### Inline
-### External
+- Inline CSS is used to apply a style to a single HTML element
+- It uses the `style` attribute of a HTML element
+```HTML
+<h1 style="color:blue; font-size:2em">wow a blue heading</h1>
+```
 ## Selectors
+- Selectors are a a way to select multiple elements
+- We can select every `<h1>` element in a html document as such
+```css
+h1 {
+	color: blue;
+	font-size: 2em;
+}
+```
+- We can select every element with a class of `pretty` as such
+```css
+.pretty {
+	color: blue;
+	font-size: 2em;
+}
+```
+- We can select the element with an id of `pretty-thing` as such
+```css
+#pretty-thing {
+	color: blue;
+	font-size: 2em;
+}
+```
+### Internal
+- Internal CSS is declared in the `<head>` of a html document using the `<style>` tag
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--...-->
+		<style>
+			h1 {
+				color: blue;
+				font-size: 2em;
+			}		
+		</style>
+	</head>
+	<body>
+		<h1>Heading 1</h1>
+	</body>
+</html>
+```
+### External
+- External CSS is stored in a `.css` file
+- This CSS file is linked in the head of a html document
+```css
+/* style.css */
+h1 {
+	color: blue;
+	font-size: 2em;
+}
+```
+```html
+<!--index.html-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--...-->
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>Heading 1</h1>
+	</body>
+</html>
+```
