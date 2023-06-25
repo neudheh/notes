@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mye todo.md",
+                "file": "GP/science and tech.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mye todo.md",
+                "file": "GP/science and tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mye todo.md",
+                "file": "GP/science and tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mye todo.md"
+                "file": "GP/science and tech.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,23 +150,24 @@
   },
   "active": "46c8dcb44b60f71d",
   "lastOpenFiles": [
-    "GP/essay.md",
+    "economics/elasticity.md",
+    "GP/science and tech.md",
+    "economics/market faliure.md",
     "economics/policies to solve market faliure.md",
+    "economics/inequity.md",
+    "economics/price mechanism.md",
+    "mye todo.md",
+    "GP/essay.md",
     "GP/comprehension.md",
     "economics/policies to solve inequity.md",
-    "mye todo.md",
     "images/economics/public education.jpeg",
     "images/economics/quota.jpeg",
-    "economics/inequity.md",
-    "economics/market faliure.md",
     "economics/central problem of economics.md",
-    "economics/price mechanism.md",
     "images/economics/total ban.jpeg",
     "images/economics/free direct provision.jpeg",
     "images/economics/subsidy.jpeg",
     "images/economics/Production tax.jpeg",
     "images/economics/Pollution tax.jpeg",
-    "economics/elasticity.md",
     "Imperfect i.md",
     "images/economics/government expenditure.jpeg",
     "images/economics/elasticity subsidy.jpeg",
