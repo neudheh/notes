@@ -136,8 +136,8 @@ $$PES = \frac{Precentage\ change\ in\ quantity\ supplied\ of\ a\ good}{Precentag
 
 |Value of PES|Explanation|Diagram|
 |-|-|-|
-|Price elastic supply $(PES > 1)$| A given percentage change in price brings about a more than proportionate change in quantity supplied|![[PES > 1.jpeg]]|
-|Price inelastic supply $(0 < PES < 1)$|A given percentage change in price brings about a less than proportionate change in quantity supplied|![[0<PES<1.jpeg]]|
+|Price elastic supply $(PES more than 1)$| A given percentage change in price brings about a more than proportionate change in quantity supplied|![[PES > 1.jpeg]]|
+|Price inelastic supply $(0 < PES < 1)$|A given percentage change in price brings about a less than proportionate change in quantity supplied|![[PES more than 0 but lesser than1.jpeg]]|
 |Perfectly price elastic supply $(PES = \infty)$|Producers are able to sell at whatever quantity they want at the given price|![[PES = INF.jpeg]]|
 |Perfectly price inelastic supply $(PES = 0)$|A fixed quantity that the producer can sell regardless of the price|![[PES = 0.jpeg]]|
 ### Factors affecting PES
