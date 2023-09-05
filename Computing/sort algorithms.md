@@ -1,0 +1,207 @@
+## Bubble sort
+### Non-Optimized
+1. Compare the first and second values, and if the first value is larger than the second value, swap them
+2. Compare the second and third values, and if the second value is larger than the third value, swap them
+3. Keep comparing adjacent values swapping them in necessary, until the last two values in the list have been processed
+4. When we have completed the first pass through the entire array, the largest value is in the correct position at the end of the array; but other values may or may not be in the correct order
+5. We need to work through the array again and again with each pass having one less value to compare
+#### Pseudocode:
+```Pseudo
+FOR passes = 0 TO length of data - 2 // Compare up to 2nd last element (assuming list starts from index 0)
+	FOR j = 0 TO length of data - 2 - passes // Compare elements before those already sorted
+		IF data[j] > data[j + 1]
+			THEN
+				data[j], data[j+1] = data[j+1], data[j]
+				// If the current value is more than the next value, swap.
+			ENDIF
+	 ENDFOR j
+ENDFOR passes
+```
+- The values to be sorted may already be in the correct order before the outer loop  as been through all its iterations
+- After the third pass, the values are all in the correct order but the algorithm will continue to run. This means that we are making comparisons when no further swaps need to be made
+![[room to optimize.jpg]]
+### Optimized
+- If we have gone through one pass without swapping any values, this means that the values must be in the correct order
+- We can use a variable `swapped` to store whether a swap has taken place
+- When we swap a pair of values, we set `swapped` to `True`, indicting that the list was not sorted
+- If `swapped` is `False` at the end of one pass through the list, this indicates that none of the values are swapped, and the list must be sorted, and we can exit the sort algorithm, allowing us to cut down on any unnecessary comparisons and passes, optimising the algorithm
+#### Pseudocode
+```Pseudo
+swapped <- TRUE
+passes <- length of data - 1
+WHILE swapped DO 
+	swapped <- FALSE
+	FOR j = 0 TO passes - 1
+		IF data[j] > data[j + 1]
+			THEN
+				data[j], data[j + 1] = data[j + 1], data[j]
+				swapped <- True
+		ENDIF
+	ENDFOR j
+	passes <- passes - 1
+	ENDWHILE 
+```
+### Time complexity
+- Best case time complexity is $\Omega (n)$, as given a sorted list, we only need one pass of n-1 comparisons on the values in the list to check that it is is sorted 
+- Worst case time complexity is $O(n^2)$ as the non-optimised bubble sort algorithm will need to make $(n-1) \times (n-2)$ comparisons to complete the sort
+## Insertion sort
+- Insertion divides the array into two parts, sorted and unsorted
+- Unsorted elements are inserted one by one into their sorted section\
+1. Make the first element in the array and make it the sorted list
+2. Consider the next element in the unsorted array; if it smaller than the first element, we swap them.
+3. Consider the third element in the array; we swap it leftwards until it is in its proper order with the first two elements
+4. Repeat until the whole array is sorted
+#### Pseudocode
+```Pseudo
+FOR i = 1 TO length of data - 1
+	curr <- data[i] // take the first item of the unsorted list
+	position <- i
+	WHILE position > 0 and curr < data[position - 1] DO
+		data[position] <- data[position - 1]
+		position <- position - 1
+	ENDWHILE
+	data[position] <- curr
+ENDFOR i
+```
+### Time complexity
+- The outer for-loop in insertion sort always iterates $n-1$ times
+- The inner while loop will make $(n-1) \times 1$ comparisons in best case if all values are in correct order
+- The inner while loop will make $1 + 2 +3 + ... + (n-1) + (n-1)$ comparisons in worst case
+- Best case time complexity of $\Omega(n)$
+- Worst case time complexity of $O(n^2)$
+## Merge sort
+- Merge sort is a divide and conquer algorithm that recursively users two functions; one that splits the input array into half and one that merges both halves, producing a sorted array
+### Merge function
+- If we have two sorted lists in ascending order, `List1` and `List2`, we compare the first item in both lists
+- If the first item in `List1` is smaller than that in `List2`, the first item is removed from `List1` and added a new list, and vice versa
+- This comparison is repeated until either `List1` or `List2` becomes empty, and the remaining items on the other list are added to the new list and merge sort is complete
+#### Pseudocode
+```Pseudo
+FUNCTION merge (list1: ARRAY, list2: ARRAY) RETURNS ARRAY
+	i <- 0
+	j <- 0
+	new_list <- []
+	WHILE i < length of list1 and j < length of list2 DO
+		IF list1[i] < list2[j]
+			THEN
+				Append list1[i] to new_list
+				i <- i + 1
+			ELSE
+				Append list2[j] to new_list
+				j <- j + 1
+		ENDIF
+	ENDWHILE
+
+	// If list1 or list2 has remaining items, add remianing items to the new list
+	IF i < length of list1:
+		THEN 
+			new_list <- new_list + list1[i:]
+		ELSE
+			new_list <- new_list + list2[j:]
+	ENDIF
+	RETURN new_list
+```
+### Merge sort function
+- This function recursively divides an unsorted array into subarrays, until each contains one element
+- Then, it merges the sub arrays into a sorted subarray, until there is only one array
+```Pseudo
+FUNCTION merge_sort(A: ARRAY) RETURNS ARRAY
+	DECLARE mid: INTEGER
+	IF length of A > 1
+		mid <- length of A DIV 2 // Floor division
+		list1 <- A[:mid]
+		list2 <- A[mid:]
+		sorted_list1 <- merge_sort(list1)
+		sorted_list2 <- merge_sort(list2)
+		return merge(sorted_list1, sorted_list2)
+	ENDIF
+	RETURN A
+ENDFUNCTION
+```
+### Time complexity
+- The time complexity of dividing the arrays is $O(\log n)$ , and the time complexity of merging the subarrays is $O(n)$
+- Thus merge sort has a time complexity of $O(n \log n)$
+- The time complexity for best both worst and best cases is the same,  $O(n \log n)$ as merge sort always divides the array into two halves and takes liner time to merge both halves
+## Quicksort
+### Out-of-place
+- Quicksort first selects a pivot element, which can be any element in the array
+- The algorithm then partitions the array around the pivot, putting every element in a `less_than` array, and every element greater than or equal to the pivot in a `greater_equal` array
+- Eventually, those elements are combined in order by first inserting the elements of less than, then those of equal, and finally those of `greater_equal`
+#### Pseudocode
+```Pseudo
+FUNCTION quicksort (A: ARRAY) RETURNS ARRAY
+	IF NOT A // If A is empty
+		RETURN []
+
+	pivot = A[0]// Taking the first element as the pivot
+
+	less_than <- [] // array of all the elements in A less than the pivot
+	equal <- pivot
+	greater_equal <- [] //array of all the elements in A greater than or equal to the pivot
+	FOR i <- 1 TO length of A - 1
+		If A[i] < pivot:
+			THEN
+				Append A[i] to less_than
+			ELSE:
+				Append A[i] to greater_equal
+	ENDFOR i
+	RETURN quicksort(less_than) + equal + quicksort(greater_equal)
+ENDFUNCTION
+```
+- Works well if all elements are unique
+- If they are not, the order or occurrence of to same elements in the array may be altered, making the algorithm an unstable sorting algorithm
+### In-place
+- Using  recursion or large data sets can cause the computer to run out of memory, causing 'stack overflow' error
+- An in-place quicksort algorithm can be used instead, which uses lesser memory
+1. The divide step is performed by scanning the array and using the left index as `l`, which advances forwards, and right index as `r`, which advances backwards
+2. A swap is performed when `l` is at an element larger than the pivot, and `r` is at an element smaller than the pivot
+3. `l` continues to advance forwards and `r` continues to advance backwards
+4. When `l` is greater than `r`, a `l` swaps with the pivot, completing the divide step of in place quick swap
+5. The algorithm then recurs on these two sub arrays
+![[in place quicksort 1.png]]
+![[in place quicksort 2.png]]
+#### Pseudocode
+```
+PROCEDURE inplace_quicksort(A, first, last)
+  IF first >= last
+    THEN
+      RETURN []
+  ENDIF
+  pivot = A[last]
+  l = first
+  r = last - 1
+  WHILE l <= r:
+    WHILE l <= r AND A[l] < pivot:
+      left <- left + 1
+    ENDWHILE
+    WHILE l <= r AND A[r] > pivot:
+      right <- right - 1
+    ENDWHILE
+    IF l <= r
+      THEN
+        A[l], A[r] <= A[r], A[l] 
+        left, right <- left + 1, right - 1
+    ENDIF
+
+    A[left], A[last] = A[last], A[left]
+    inplace_quick_sort(A, first, left - 1)
+    inplace_quick_sort(A, left + 1, last)
+ENDPROCEDURE
+```
+### Time complexity
+- Similar to merge sort, quicksort has a time complexity of $\Omega(n \log n)$ , 
+- In the worst case, the pivot is always  the smallest or largest element, creating partitions of size $n-1$, calling recursive calls $n-1$ times, leading to a time complexity of $O(n^2)$ 
+## Merge sort vs Quicksort
+- Quicksort is an unstable sorting technique. It might change the occurrence of two similar elements in the array while sorting.
+- Merge sort is a stable algorithm. It doesn’t change the occurrence of similar elements and preserves the order in which these elements appeared in the original array
+- Instead of adding elements greater than and equal to the pivot into the `greater_equal` array, elements equal to the pivot can be stored in an `equal` array and elements greater than pivot can be stored in a `greater` array. 
+- This will preserve the original order of occurrence of the elements.
+```Pseudo
+pivot <- element in the middle of the array
+less <- an array of all elements in A less than pivot
+equal <- an array of all elements in A equal to pivot
+greater <- an array of all elements in A greater than pivot
+```
+- In-place quicksort does not need additional memory space to perform sorting. 
+- Merge sort requires a temporary array to merge the sorted arrays.
+- Hence, merge sort needs more memory space compared to in-place quicksort.

@@ -218,7 +218,7 @@ ENDWHILE
 
 ### repeat until loops
 - A repeat until loops is repeated until a condition is true
-- 
+
 ```pseudo
 REPEAT
 	number <- number + 1

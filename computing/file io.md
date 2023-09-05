@@ -1,4 +1,4 @@
-## Opening and closing files
+ ## Opening and closing files
 - Open files using `open()`
 - `open()` returns a file object, which handles the file, so it needs to be stored in a variable to access the file
 - `open()` takes two parameters, the file name and the mode

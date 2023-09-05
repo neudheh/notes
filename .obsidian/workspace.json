@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46c8dcb44b60f71d",
+            "id": "ccc472fe64dcabb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GP/science and tech.md",
+                "file": "Reminders.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GP/science and tech.md",
+                "file": "Reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GP/science and tech.md",
+                "file": "Reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GP/science and tech.md"
+                "file": "Reminders.md"
               }
             }
           }
@@ -148,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46c8dcb44b60f71d",
+  "active": "ccc472fe64dcabb3",
   "lastOpenFiles": [
-    "economics/elasticity.md",
-    "GP/science and tech.md",
-    "economics/market faliure.md",
-    "economics/policies to solve market faliure.md",
-    "economics/inequity.md",
-    "economics/price mechanism.md",
-    "mye todo.md",
     "GP/essay.md",
-    "GP/comprehension.md",
-    "economics/policies to solve inequity.md",
+    "GP/science and tech.md",
+    "Reminders.md",
+    "Economics/policies to solve market faliure.md",
+    "Economics/market faliure.md",
+    "Economics/price mechanism.md",
+    "Anger AQ.md",
+    "Computing/sort algorithms.md",
+    "Computing/Decision tables 101.md",
+    "Computing/Pseudocode 101.md",
+    "images/Computing/in place quicksort 2.png",
+    "images/Computing/in place quicksort 1.png",
+    "Computing/recursion.md",
+    "Computing/practical.md",
+    "Computing/Data types.md",
+    "Computing/html and css.md",
+    "Computing/file io.md",
+    "Computing/flask and jinja.md",
+    "Computing/data representation.md",
+    "images/Computing/room to optimize.jpg",
+    "Computing/search algorithms.md",
+    "Economics/elasticity.md",
+    "Economics/policies to solve inequity.md",
+    "mye todo.md",
+    "Computing/Intro to python.md",
+    "Computing/Functions.md",
+    "Computing/Data structures.md",
+    "Computing/Flowchart 101.md",
+    "Physics/forces.md",
     "images/economics/public education.jpeg",
     "images/economics/quota.jpeg",
-    "economics/central problem of economics.md",
     "images/economics/total ban.jpeg",
     "images/economics/free direct provision.jpeg",
     "images/economics/subsidy.jpeg",
     "images/economics/Production tax.jpeg",
     "images/economics/Pollution tax.jpeg",
-    "Imperfect i.md",
-    "images/economics/government expenditure.jpeg",
-    "images/economics/elasticity subsidy.jpeg",
-    "images/economics/elasticity tax.jpeg",
-    "Untitled.md",
-    "reminders.md",
-    "computing/pseudocode 101.md",
-    "computing/flowchart 101.md",
-    "computing/recursion.md",
-    "computing/search algorithms.md",
-    "computing/decision tables 101.md",
-    "computing/data representation.md",
-    "computing/flask and jinja.md",
-    "computing/html and css.md",
-    "computing/functions.md",
-    "computing/data structures.md",
-    "computing/file io.md",
-    "computing/control flow.md",
     "GP",
     "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 2.heic",
     "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 1.heic",
