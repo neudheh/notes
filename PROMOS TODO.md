@@ -1,0 +1,56 @@
+# Computing
+- [x] Chapter 1
+- [x] Chapter 2
+- [ ] Chapter 3
+- [x] Chapter 4
+- [x] Chapter 5
+- [ ] Chapter 6
+- [ ] Chapter 7
+- [ ] Chapter 8
+- [x] Chapter 9
+- [ ] Chapter 10
+- [x] Chapter 11
+- [ ] Chapter 12
+- [x] Chapter 13
+- [ ] Chapter 14
+- [ ] Chapter 15
+- [ ] Chapter 16
+- [ ] Revision package
+# Physics
+- [ ] Measurement A and B
+- [ ] Kinematics
+- [ ] Forces
+- [ ] Dynamics
+- [ ] WEP
+- [ ] Motion in a circle
+- [ ] Gravitation
+- [ ] Oscillations
+- [ ] Waves
+- [ ] Superposition
+# Econs
+- [ ] Book 1: Central Problem of Economics
+- [ ] Book 2: Demand, Supply, Elasticities
+- [ ] Book 3: Efficiency and Market Failure
+- [ ] Book 4: Inequity
+- [ ] Book 5: Government Decision-making and Government Failure
+- [ ] Book 6: Standard of Living
+- [ ] Book 7: Macroeconomic Variables and Macro Models
+- [ ] Book 8: Economic Growth (up to end of Section 4)
+# Math
+- [ ] Chapter 1
+- [ ] Chapter 2
+- [ ] Chapter 3
+- [ ] Chapter 5
+- [ ] Chapter 6
+- [ ] Chapter 8
+- [ ] Chapter 9
+- [ ] Chapter 10
+- [ ] Chapter 11
+- [ ] Chapter 12
+- [ ] Chapter 13
+- [ ] Chapter 14
+- [ ] Chapter 15
+# GP
+- [ ] Essay
+- [ ] Compre
+- [ ] Pray
