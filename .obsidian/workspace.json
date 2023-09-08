@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43d7efefbc5eb662",
+        "id": "bbaf36a11f18f234",
         "type": "tabs",
         "children": [
           {
-            "id": "a0664d48057e3adb",
+            "id": "0b3a1ca30b1f0812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/5. Work, energy, and power.md",
+                "file": "Economics/13. Economic growth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/5. Work, energy, and power.md",
+                "file": "Economics/13. Economic growth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/5. Work, energy, and power.md",
+                "file": "Economics/13. Economic growth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/5. Work, energy, and power.md"
+                "file": "Economics/13. Economic growth.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06c3a39e792f3371",
+  "active": "0b3a1ca30b1f0812",
   "lastOpenFiles": [
-    "Physics/3. Dyanmics.md",
-    "Physics/4. Forces.md",
-    "Physics/2. Kinematics.md",
-    "Physics/1. Measurement.md",
-    "GP/Science and tech.md",
-    "GP/Essay.md",
     "Economics/7. Policies to solve inequity.md",
-    "Economics/6. Inequity.md",
-    "Economics/5. Policies to solve market failure.md",
-    "Economics/4. Market failure.md",
-    "Economics/3. Elasticity.md",
-    "Economics/2. Price Mechanism.md",
+    "Economics/9. Government faliure.md",
+    "Economics/13. Economic growth.md",
+    "Economics/12. AD-AS Model.md",
+    "Economics/11. The circular flow of income.md",
+    "Economics/10. Standard of living.md",
+    "Economics/8. Government decision making.md",
     "Economics/1. Central Problem of Economics.md",
-    "Computing/13. OOP.md",
-    "images/Computing/public private class diagram.png",
-    "PROMOS TODO.md",
-    "Reminders.md",
-    "Computing/7. HTML and CSS.md",
-    "Computing/4. Data structures.md",
-    "Computing/14. Linked List.md",
     "Computing/12. Sort algorithms.md",
+    "Computing/13. OOP.md",
+    "Computing/2. Data types.md",
+    "Computing/1. Intro to python.md",
+    "Computing/14. Linked List.md",
+    "Computing/15. Stack and Queue.md",
+    "Computing/16. Hash Table.md",
     "Computing/11. Search algorithms.md",
     "Computing/10. Recursion.md",
-    "Computing/16. Hash Table.md",
-    "Computing/15. Stack and Queue.md",
-    "Computing/1. Intro to python.md",
+    "Computing/9. Data representation.md",
+    "Computing/8. Flask and Jinja.md",
+    "Computing/7. HTML and CSS.md",
     "Computing/6. File IO.md",
+    "Computing/5. Functions.md",
+    "Computing/4. Data structures.md",
+    "Computing/3. Control flow.md",
+    "PROMOS TODO.md",
+    "Physics/6. Motion in a circle.md",
+    "images/Physics/bucket of water.png",
+    "images/Physics/tension in the rod.png",
+    "images/Physics/loop the loop.png",
+    "images/Physics/banking.png",
+    "images/Physics/car without banking.png",
+    "images/Physics/Cyclist leaning.png",
+    "images/Physics/Work done by a gas.png",
+    "images/Physics/centripetal acceleeration.png",
+    "images/Physics/tangentinal velocity.png",
+    "images/Computing/public private class diagram.png",
     "Computing/guides",
-    "images/Computing/class diagram.png",
-    "images/Computing/in place quicksort 2.png",
-    "images/Computing/in place quicksort 1.png",
-    "images/Computing/room to optimize.jpg",
-    "images/economics/public education.jpeg",
-    "images/economics/quota.jpeg",
-    "images/economics/total ban.jpeg",
-    "images/economics/free direct provision.jpeg",
-    "images/economics/subsidy.jpeg",
     "GP",
     "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 2.heic",
     "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 1.heic",

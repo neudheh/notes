@@ -7,5 +7,6 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "highlight"
-  ]
+  ],
+  "translucency": false
 }
