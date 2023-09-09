@@ -35,7 +35,7 @@
 - [ ] Book 5: Government Decision-making and Government Failure
 - [ ] Book 6: Standard of Living
 - [ ] Book 7: Macroeconomic Variables and Macro Models
-- [ ] Book 8: Economic Growth (up to end of Section 4)
+- [x] Book 8: Economic Growth (up to end of Section 4)
 # Math
 - [ ] Chapter 1
 - [ ] Chapter 2
