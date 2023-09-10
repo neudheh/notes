@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/9. Wave motion.md",
+                "file": "Computing/15. Stack and Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/9. Wave motion.md",
+                "file": "Computing/15. Stack and Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/9. Wave motion.md",
+                "file": "Computing/15. Stack and Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/9. Wave motion.md"
+                "file": "Computing/15. Stack and Queue.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,22 +150,35 @@
   },
   "active": "ccc472fe64dcabb3",
   "lastOpenFiles": [
-    "Physics/8. Oscillations.md",
-    "Physics/9. Wave motion.md",
-    "Economics/2. Price Mechanism.md",
-    "Computing/16. Hash Table.md",
-    "Computing/15. Stack and Queue.md",
+    "Pasted image 20230910183106.png",
     "Computing/14. Linked List.md",
+    "images/computing/free space list.png",
+    "images/computing/free space list inserting.png",
+    "images/computing/free space list deleting.png",
+    "Pasted image 20230910175249.png",
+    "images/computing/linked list deleting first node.png",
+    "images/computing/linked list deleting node in between.png",
+    "images/computing/linked list deleting last node.png",
+    "Computing/16. Hash Table.md",
+    "images/computing/linked list inserting a node in between.png",
     "Computing/13. OOP.md",
     "Computing/12. Sort algorithms.md",
     "Computing/11. Search algorithms.md",
+    "images/computing/linked list inserting a new node at the end.png",
+    "images/computing/linked list inserting a new node at the beginning.png",
+    "Economics/12. AD-AS Model.md",
+    "Economics/13. Economic growth.md",
+    "Computing/15. Stack and Queue.md",
+    "Computing/8. Flask and Jinja.md",
+    "Computing/6. File IO.md",
+    "Computing/7. HTML and CSS.md",
+    "Computing/4. Data structures.md",
+    "Physics/9. Wave motion.md",
+    "Physics/8. Oscillations.md",
+    "Economics/2. Price Mechanism.md",
     "Computing/10. Recursion.md",
     "Computing/9. Data representation.md",
-    "Computing/8. Flask and Jinja.md",
-    "Computing/7. HTML and CSS.md",
-    "Computing/6. File IO.md",
     "Computing/5. Functions.md",
-    "Computing/4. Data structures.md",
     "Computing/3. Control flow.md",
     "Computing/2. Data types.md",
     "Computing/1. Intro to python.md",
@@ -171,20 +186,7 @@
     "Reminders.md",
     "Physics/7. Gravitation.md",
     "Physics/10. Superposition.md",
-    "images/physics/Frequency response graph.png",
-    "images/physics/heavy damping.png",
-    "images/physics/critical damping.png",
-    "images/physics/light damping.png",
-    "images/physics/dyanmics shm.png",
-    "images/physics/energy graphs shm.png",
-    "images/physics/simple harmonic motion and circular motion.png",
-    "images/physics/accleration and velocity as a function of displacement shm.png",
-    "images/physics/displacement velocity acceleration as a function of time shm.png",
-    "Economics/1. Central Problem of Economics.md",
-    "Physics/3. Dyanmics.md",
-    "images/physics/oscillating spring.png",
     "Untitled.canvas",
-    "Untitled.md",
     "Physics",
     "Economics",
     "Computing/guides",
