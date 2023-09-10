@@ -15,16 +15,15 @@
 - [ ] Chapter 14
 - [ ] Chapter 15
 - [ ] Chapter 16
-- [ ] Revision package
 # Physics
 - [ ] Measurement A and B
 - [ ] Kinematics
 - [ ] Forces
 - [ ] Dynamics
 - [ ] WEP
-- [ ] Motion in a circle
-- [ ] Gravitation
-- [ ] Oscillations
+- [x] Motion in a circle
+- [x] Gravitation
+- [x] Oscillations
 - [ ] Waves
 - [ ] Superposition
 # Econs
