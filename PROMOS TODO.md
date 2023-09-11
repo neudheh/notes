@@ -12,8 +12,8 @@
 - [ ] Chapter 11
 - [ ] Chapter 12
 - [x] Chapter 13
-- [ ] Chapter 14
-- [ ] Chapter 15
+- [x] Chapter 14
+- [x] Chapter 15
 - [ ] Chapter 16
 # Physics
 - [ ] Measurement A and B

@@ -107,7 +107,20 @@ Visually, this is the new array
 |ㅤ|ㅤ|ㅤ|
 
 ## Classes
-_have not learned this yet lol_ 
+- To define a class, we use the `TYPE` keyword to give it a name
+- We add its attribute by using `DECLARE`, like a variable
+```pseudo
+TYPE Student
+	DECLARE Name : STRING
+	DECLARE Mobile_no : INTEGER
+	DECLARE Civics_group : STRING
+```
+- To create an instance, we just assign the class to a variable
+- We can also change the attributes like in python
+```Pseudo
+DECLARE Pupil1 : Student
+Pupi1.Name <- "Kevin"
+```
 ## Input and output
 - We can receive user input using the `INPUT` keyword
 
