@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8cc7034af943c58",
+        "id": "bbaf36a11f18f234",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc472fe64dcabb3",
+            "id": "0b3a1ca30b1f0812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/12. AD-AS Model.md",
+                "file": "Reminders.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/12. AD-AS Model.md",
+                "file": "Reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/12. AD-AS Model.md",
+                "file": "Reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/12. AD-AS Model.md"
+                "file": "Reminders.md"
+              }
+            }
+          },
+          {
+            "id": "d96afff47024fee3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -147,49 +157,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccc472fe64dcabb3",
+  "active": "0b3a1ca30b1f0812",
   "lastOpenFiles": [
+    "PROMOS TODO.md",
+    "Physics/5. Work, energy and power.md",
+    "Physics/9. Wave motion.md",
+    "Physics/6. Motion in a circle.md",
+    "Physics/7. Gravitation.md",
+    "images/physics/gradient of potential energy graph is force.png",
+    "Physics/5. Work, energy, and power.md",
+    "Physics/10. Superposition.md",
+    "Computing/16. Hash Table.md",
+    "GP/Science and tech.md",
+    "images/computing/hash table closed adressing.png",
     "Economics/13. Economic growth.md",
     "Economics/12. AD-AS Model.md",
-    "Economics/11. The circular flow of income.md",
-    "Economics/10. Standard of living.md",
-    "Economics/8. Government decision making.md",
-    "Economics/7. Policies to solve inequity.md",
-    "Economics/9. Government faliure.md",
     "Computing/14. Linked List.md",
     "Computing/15. Stack and Queue.md",
+    "images/physics/Work done by a gas.png",
+    "images/physics/Work done by a constant force.png",
+    "images/physics/why binary stars have the same period.png",
+    "images/physics/weightlessness in orbit.png",
+    "images/physics/Upthrust.png",
+    "images/physics/Tip to tail method.png",
+    "images/physics/tension in the rod.png",
+    "images/physics/tangentinal velocity.png",
+    "images/physics",
+    "images/computing",
     "Computing/13. OOP.md",
-    "Computing/12. Sort algorithms.md",
     "Computing/1. Intro to python.md",
-    "Computing/guides/Pseudocode 101.md",
-    "Computing/3. Control flow.md",
-    "Reminders.md",
-    "Computing/16. Hash Table.md",
-    "Pasted image 20230910232506.png",
-    "Computing/4. Data structures.md",
-    "Computing/5. Functions.md",
-    "Computing/6. File IO.md",
-    "Computing/7. HTML and CSS.md",
-    "Computing/8. Flask and Jinja.md",
-    "Computing/9. Data representation.md",
-    "Computing/10. Recursion.md",
-    "Computing/11. Search algorithms.md",
-    "PROMOS TODO.md",
-    "images/computing/circular queue.png",
     "Computing/2. Data types.md",
-    "images/computing/stack.png",
-    "images/computing/free space list.png",
-    "images/computing/free space list inserting.png",
-    "images/computing/free space list deleting.png",
-    "Pasted image 20230910175249.png",
-    "images/computing/linked list deleting first node.png",
-    "images/computing/linked list deleting node in between.png",
-    "images/computing/linked list deleting last node.png",
-    "Untitled.canvas",
-    "Physics",
-    "Economics",
+    "Computing/8. Flask and Jinja.md",
+    "Computing/7. HTML and CSS.md",
+    "Computing/9. Data representation.md",
+    "Economics/5. Policies to solve market failure.md",
+    "Economics/4. Market failure.md",
+    "Economics/7. Policies to solve inequity.md",
+    "Economics/11. The circular flow of income.md",
+    "Economics/10. Standard of living.md",
+    "Economics/9. Government faliure.md",
     "Computing/guides",
-    "Computing",
     "GP",
     "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 2.heic",
     "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 1.heic",

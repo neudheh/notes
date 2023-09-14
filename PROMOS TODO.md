@@ -20,7 +20,7 @@
 - [x] Kinematics
 - [x] Forces
 - [x] Dynamics
-- [ ] WEP
+- [x] WEP
 - [x] Motion in a circle
 - [x] Gravitation
 - [x] Oscillations
