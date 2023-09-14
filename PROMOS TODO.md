@@ -14,18 +14,19 @@
 - [x] Chapter 13
 - [x] Chapter 14
 - [x] Chapter 15
-- [ ] Chapter 16
+- [x] Chapter 16
 # Physics
 - [ ] Measurement A and B
-- [ ] Kinematics
-- [ ] Forces
-- [ ] Dynamics
+- [x] Kinematics
+- [x] Forces
+- [x] Dynamics
 - [ ] WEP
 - [x] Motion in a circle
 - [x] Gravitation
 - [x] Oscillations
-- [ ] Waves
+- [x] Waves
 - [ ] Superposition
+- [ ] Practical
 # Econs
 - [ ] Book 1: Central Problem of Economics
 - [ ] Book 2: Demand, Supply, Elasticities
