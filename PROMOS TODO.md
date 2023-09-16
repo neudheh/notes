@@ -16,7 +16,7 @@
 - [x] Chapter 15
 - [x] Chapter 16
 # Physics
-- [ ] Measurement A and B
+- [x] Measurement A and B
 - [x] Kinematics
 - [x] Forces
 - [x] Dynamics
@@ -25,7 +25,7 @@
 - [x] Gravitation
 - [x] Oscillations
 - [x] Waves
-- [ ] Superposition
+- [x] Superposition
 - [ ] Practical
 # Econs
 - [ ] Book 1: Central Problem of Economics

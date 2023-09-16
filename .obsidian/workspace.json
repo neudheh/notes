@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b3a1ca30b1f0812",
+            "id": "40c9258ac944f074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reminders.md",
+                "file": "Economics/1. Central Problem of Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reminders.md",
+                "file": "Economics/1. Central Problem of Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reminders.md",
+                "file": "Economics/1. Central Problem of Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reminders.md"
+                "file": "Economics/1. Central Problem of Economics.md"
               }
             }
           },
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,45 +156,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b3a1ca30b1f0812",
+  "active": "40c9258ac944f074",
   "lastOpenFiles": [
-    "PROMOS TODO.md",
-    "Physics/5. Work, energy and power.md",
-    "Physics/9. Wave motion.md",
-    "Physics/6. Motion in a circle.md",
-    "Physics/7. Gravitation.md",
-    "images/physics/gradient of potential energy graph is force.png",
-    "Physics/5. Work, energy, and power.md",
-    "Physics/10. Superposition.md",
-    "Computing/16. Hash Table.md",
-    "GP/Science and tech.md",
-    "images/computing/hash table closed adressing.png",
-    "Economics/13. Economic growth.md",
-    "Economics/12. AD-AS Model.md",
-    "Computing/14. Linked List.md",
-    "Computing/15. Stack and Queue.md",
-    "images/physics/Work done by a gas.png",
-    "images/physics/Work done by a constant force.png",
-    "images/physics/why binary stars have the same period.png",
-    "images/physics/weightlessness in orbit.png",
-    "images/physics/Upthrust.png",
-    "images/physics/Tip to tail method.png",
-    "images/physics/tension in the rod.png",
-    "images/physics/tangentinal velocity.png",
-    "images/physics",
-    "images/computing",
-    "Computing/13. OOP.md",
-    "Computing/1. Intro to python.md",
-    "Computing/2. Data types.md",
-    "Computing/8. Flask and Jinja.md",
-    "Computing/7. HTML and CSS.md",
-    "Computing/9. Data representation.md",
+    "Economics/9. Government faliure.md",
+    "Economics/8. Government decision making.md",
+    "Economics/7. Policies to solve inequity.md",
+    "Economics/6. Inequity.md",
     "Economics/5. Policies to solve market failure.md",
     "Economics/4. Market failure.md",
-    "Economics/7. Policies to solve inequity.md",
-    "Economics/11. The circular flow of income.md",
-    "Economics/10. Standard of living.md",
-    "Economics/9. Government faliure.md",
+    "Economics/3. Elasticity.md",
+    "Economics/2. Price Mechanism.md",
+    "Economics/1. Central Problem of Economics.md",
+    "Economics/13. Economic growth.md",
+    "PROMOS TODO.md",
+    "Reminders.md",
+    "Physics/10. Superposition.md",
+    "images/physics/angle of deviation diffraction grating.png",
+    "images/physics/angular dispersion of white light.png",
+    "an.png",
+    "Pasted image 20230916164016.png",
+    "images/physics/diffraction grating.png",
+    "images/physics/diffraction grating alternative.png",
+    "Pasted image 20230916163507.png",
+    "images/physics/equation for nth bright fringe.png",
+    "images/physics/relative intensity in reality.png",
+    "Pasted image 20230916153500.png",
+    "Physics/1. Measurement.md",
+    "Physics/Practical.md",
+    "Physics/4. Forces.md",
+    "Physics/9. Wave motion.md",
+    "Physics/8. Oscillations.md",
+    "Computing/6. File IO.md",
+    "Computing/16. Hash Table.md",
+    "Computing/15. Stack and Queue.md",
+    "Computing/14. Linked List.md",
+    "Computing/13. OOP.md",
+    "Computing/12. Sort algorithms.md",
+    "Computing/10. Recursion.md",
+    "Computing/9. Data representation.md",
+    "images/physics",
+    "images/computing",
     "Computing/guides",
     "GP",
     "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 2.heic",
