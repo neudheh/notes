@@ -26,15 +26,15 @@
 - [x] Oscillations
 - [x] Waves
 - [x] Superposition
-- [ ] Practical
+- [x] Practical
 # Econs
-- [ ] Book 1: Central Problem of Economics
+- [x] Book 1: Central Problem of Economics
 - [ ] Book 2: Demand, Supply, Elasticities
 - [ ] Book 3: Efficiency and Market Failure
 - [ ] Book 4: Inequity
 - [ ] Book 5: Government Decision-making and Government Failure
-- [ ] Book 6: Standard of Living
-- [ ] Book 7: Macroeconomic Variables and Macro Models
+- [x] Book 6: Standard of Living
+- [x] Book 7: Macroeconomic Variables and Macro Models
 - [x] Book 8: Economic Growth (up to end of Section 4)
 # Math
 - [ ] Chapter 1

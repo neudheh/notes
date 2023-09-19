@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbaf36a11f18f234",
+        "id": "7db1d9df01538a09",
         "type": "tabs",
         "children": [
           {
-            "id": "40c9258ac944f074",
+            "id": "f60aebc3323da42f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/1. Central Problem of Economics.md",
+                "file": "Economics/7. Policies to solve inequity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/1. Central Problem of Economics.md",
+                "file": "Economics/7. Policies to solve inequity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/1. Central Problem of Economics.md",
+                "file": "Economics/7. Policies to solve inequity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/1. Central Problem of Economics.md"
+                "file": "Economics/7. Policies to solve inequity.md"
               }
             }
           },
@@ -156,44 +156,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40c9258ac944f074",
+  "active": "06c3a39e792f3371",
   "lastOpenFiles": [
-    "Economics/9. Government faliure.md",
-    "Economics/8. Government decision making.md",
     "Economics/7. Policies to solve inequity.md",
+    "Economics/7. Policies to solve inequity.md",
+    "Economics/13. Economic growth.md",
     "Economics/6. Inequity.md",
-    "Economics/5. Policies to solve market failure.md",
+    "PROMOS TODO.md",
     "Economics/4. Market failure.md",
     "Economics/3. Elasticity.md",
+    "Economics/11. The circular flow of income.md",
+    "Economics/9. Government faliure.md",
+    "Economics/8. Government decision making.md",
+    "Economics/5. Policies to solve market failure.md",
     "Economics/2. Price Mechanism.md",
-    "Economics/1. Central Problem of Economics.md",
-    "Economics/13. Economic growth.md",
-    "PROMOS TODO.md",
+    "Economics/1. Central problem of economics.md",
+    "Economics/12. AD-AS Model.md",
+    "Economics/10. Standard of living.md",
     "Reminders.md",
+    "images/economics/sustained economic growth.png",
+    "images/economics/long term gorwht rate and short term fluctuations in actual growth.png",
+    "images/economics/wage differnetial diagram.png",
+    "images/economics/two sector cfoy.jpg",
+    "images/economics/Vouchers inequity.jpeg",
+    "images/economics/TRTE for price inelastic demand.jpeg",
+    "images/economics/TRTE for price elastic demand.jpeg",
+    "images/economics/total ban.jpeg",
+    "images/economics/tax revenue collected.jpeg",
+    "images/economics/subsidy.jpeg",
+    "Inequity.md",
+    "Economics/1. Central Problem of Economics.md",
     "Physics/10. Superposition.md",
-    "images/physics/angle of deviation diffraction grating.png",
-    "images/physics/angular dispersion of white light.png",
-    "an.png",
-    "Pasted image 20230916164016.png",
-    "images/physics/diffraction grating.png",
-    "images/physics/diffraction grating alternative.png",
-    "Pasted image 20230916163507.png",
-    "images/physics/equation for nth bright fringe.png",
-    "images/physics/relative intensity in reality.png",
-    "Pasted image 20230916153500.png",
+    "Physics/practical.md",
+    "Computing/8. Flask and Jinja.md",
+    "Computing/7. HTML and CSS.md",
+    "Computing/16. Hash Table.md",
     "Physics/1. Measurement.md",
     "Physics/Practical.md",
-    "Physics/4. Forces.md",
-    "Physics/9. Wave motion.md",
-    "Physics/8. Oscillations.md",
-    "Computing/6. File IO.md",
-    "Computing/16. Hash Table.md",
-    "Computing/15. Stack and Queue.md",
-    "Computing/14. Linked List.md",
-    "Computing/13. OOP.md",
-    "Computing/12. Sort algorithms.md",
-    "Computing/10. Recursion.md",
-    "Computing/9. Data representation.md",
     "images/physics",
     "images/computing",
     "Computing/guides",
