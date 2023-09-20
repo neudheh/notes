@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7db1d9df01538a09",
+        "id": "75529451581d944f",
         "type": "tabs",
         "children": [
           {
-            "id": "f60aebc3323da42f",
+            "id": "e15dc2edecd933ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/7. Policies to solve inequity.md",
+                "file": "Economics/2. Price Mechanism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/7. Policies to solve inequity.md",
+                "file": "Economics/2. Price Mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/7. Policies to solve inequity.md",
+                "file": "Economics/2. Price Mechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/7. Policies to solve inequity.md"
+                "file": "Economics/2. Price Mechanism.md"
               }
             }
           },
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,22 +159,26 @@
   },
   "active": "06c3a39e792f3371",
   "lastOpenFiles": [
+    "Economics/3. Elasticity.md",
+    "Economics/3. Elasticity.md",
+    "!EXAMPLE.md",
+    "PROMOS TODO.md",
+    "Reminders.md",
+    "4. Market Faliure.md",
+    "5. Policies to solve market faliure.md",
+    "Economics/4. Market failure.md",
+    "Economics/9. Government faliure.md",
+    "Economics/8. Government decision making.md",
+    "Economics/5. Policies to solve market failure.md",
     "Economics/7. Policies to solve inequity.md",
     "Economics/7. Policies to solve inequity.md",
     "Economics/13. Economic growth.md",
     "Economics/6. Inequity.md",
-    "PROMOS TODO.md",
-    "Economics/4. Market failure.md",
-    "Economics/3. Elasticity.md",
     "Economics/11. The circular flow of income.md",
-    "Economics/9. Government faliure.md",
-    "Economics/8. Government decision making.md",
-    "Economics/5. Policies to solve market failure.md",
     "Economics/2. Price Mechanism.md",
     "Economics/1. Central problem of economics.md",
     "Economics/12. AD-AS Model.md",
     "Economics/10. Standard of living.md",
-    "Reminders.md",
     "images/economics/sustained economic growth.png",
     "images/economics/long term gorwht rate and short term fluctuations in actual growth.png",
     "images/economics/wage differnetial diagram.png",
@@ -190,9 +195,6 @@
     "Physics/practical.md",
     "Computing/8. Flask and Jinja.md",
     "Computing/7. HTML and CSS.md",
-    "Computing/16. Hash Table.md",
-    "Physics/1. Measurement.md",
-    "Physics/Practical.md",
     "images/physics",
     "images/computing",
     "Computing/guides",
