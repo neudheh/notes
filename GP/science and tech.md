@@ -74,16 +74,3 @@
 ## AI can speed up the art creation process 
 - Art can take up a lot of time and effort to create all by hand, and AI can be a tool for doing so
 - For example, for Spiderman: Into the Spider-Verse, a movie that redefined the animation medium by making 3D animation look like 2D and more like a comic book, using highly stylised approaches, used their own training data to train an AI model to speed up the animation process
-## one more AI good thing
-## AI can generate harmful content
-- ChatGPT has already been used for creating malware, coming up with chat responses for dating apps, phishing and scamming and disrupting job recruitment
-- It is terribly inaccurate in some cases but presents this information in a coherent and factual manner
-- It can be used to spread disinformation, especially if more users start wrongly believing that the bot is always right
-## AI lacks the human touch
-- Usually, a piece of art and work is created with intent, and has its own stories, techniques, flaws and imperfection to convey a human emotion
-## AI is very morally sinister
-- To train AI art models, the works of several artists online have been stolen, without their knowledge and consent, and without compensation and without credit
-- These works may be copyrighted, and AI art may be infringing upon their copyright
-- It does not improve upon an artists work, only merely copies bits and pieces it found to be pretty
-- As AI trained models are trained on the internet, where various disinformation, rude remarks and other pieces of content rife with toxicity and bias, it quickly became necessary to regulate the content provided
-- OpenAI
