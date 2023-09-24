@@ -46,7 +46,7 @@
 - Since everyone has their own version of reality that they strongly believe, it can be polarise difference groups of people and create tensions, threatening the social fabric
 - For example, In the US, people are burning cell towers, due to misinformation that they saw online about how the 5G cell towers are spreading the coronavirus
 ## People may also be more authentic on social media
-- Because social media is asynchronous, difficult interpersonal discussion where one needs take time tot think through and edit what they want to say may lead to a higher level of authenticity than in a face-to-face conversation
+- Because social media is asynchronous, difficult interpersonal discussion where one needs take time to think through and edit what they want to say may lead to a higher level of authenticity than in a face-to-face conversation
 ### Examples
 - Bondee, an app where users can make avatars in the form of cute comic representations of themselves,
 - Apps like Bondee can relieve us of any hang-ups we may have about our physical bodies and in a way, give us avatars which may be more representative of what we see as our true personalities
@@ -56,7 +56,7 @@
 - In South Korea, there is almost an expectation that technology will play a huge role in the formation of relationships, especially romantic ones
 ## Technology can bring the world closer together
 - During the pandemic, where technology was the main means for many people to stay connected while movement restrictions were in place, it us a whole new way of living
-- There is arguably already an entire generation who may have spent the better part of their formative years online and have had to learn how to navigate the social world through a digital medium
+- There is arguably oalready an entire generation who may have spent the better part of their formative years online and have had to learn how to navigate the social world through a digital medium
 - Experiencing such interconnectedness may have a positive impact on people’s sense of global or civic community, and inform a wider desire to do good, collectively
 - A six-month study of 336 young people in Hong Kong found a positive relationship between interconnectedness and civic duty
 ## Technology can help coordinate global efforts for a force of good

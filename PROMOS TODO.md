@@ -51,6 +51,6 @@
 - [ ] Chapter 14
 - [ ] Chapter 15
 # GP
-- [ ] Essay
+- [x] Essay
 - [ ] Compre
-- [ ] Pray
+- [x] Pray

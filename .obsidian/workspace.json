@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "75529451581d944f",
+        "id": "126a9cfd875df00a",
         "type": "tabs",
         "children": [
           {
-            "id": "e15dc2edecd933ed",
+            "id": "e3d29834a3f59db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROMOS TODO.md",
+                "file": "Economics/5. Market faliure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0dfefe5ed97daa84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f32571c3b484601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Market failure.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROMOS TODO.md",
+                "file": "Economics/5. Market faliure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROMOS TODO.md",
+                "file": "Economics/5. Market faliure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROMOS TODO.md"
+                "file": "Economics/5. Market faliure.md"
               }
             }
           },
@@ -144,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,34 +176,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e15dc2edecd933ed",
+  "active": "e3d29834a3f59db0",
   "lastOpenFiles": [
-    "Economics/9. Government failure.md",
-    "GP/Science and tech.md",
-    "Economics/13. Economic growth.md",
-    "Economics/8. Government decision making.md",
-    "4. Market Faliure.md",
-    "Physics/7. Gravitation.md",
-    "Physics/8. Oscillations.md",
-    "Physics/9. Wave motion.md",
-    "Physics/10. Superposition.md",
-    "5. Policies to solve market faliure.md",
-    "Computing/7. HTML and CSS.md",
-    "Economics/1. Central problem of economics.md",
-    "Computing/15. Stack and Queue.md",
-    "Computing/14. Linked List.md",
-    "Computing/2. Data types.md",
-    "Computing/1. Intro to python.md",
-    "Economics/10. Standard of living.md",
-    "Economics/7. Policies to solve inequity.md",
-    "Economics/6. Inequity.md",
-    "Economics/5. Policies to solve market failure.md",
-    "Economics/3. Elasticity.md",
-    "Economics/4. Market failure.md",
-    "Economics/2. Price Mechanism.md",
+    "4. Market failure.md",
+    "Economics/5. Market faliure.md",
+    "Economics/6. Policies to solve market faliure.md",
+    "Economics/8. Policies to solve inequity.md",
+    "Economics/10. Government failure.md",
+    "Economics/11. Standard of living.md",
+    "Economics/12. The circular flow of income.md",
+    "5. Policies to solve market failure.md",
+    "Economics/7. Inequity.md",
+    "Economics/9. Government decision making.md",
     "PROMOS TODO.md",
-    "Reminders.md",
+    "Economics/3. Elasticity.md",
+    "Economics/4. Allocative efficiency in the free market.md",
+    "Economics/14. Economic growth.md",
+    "Economics/13. AD-AS Model.md",
+    "images/economics/allocative efficiency in the free market.png",
+    "IMG_2470 1.heic",
+    "IMG_2470.heic",
+    "images/economics/price mechanism.jpeg",
+    "Economics/2. Price Mechanism.md",
+    "GP/science and tech.md",
+    "Untitled.canvas",
+    "Science and tech.md",
+    "Economics/1. Central Problem of Economics.md",
     "Computing/12. Sort algorithms.md",
+    "Computing/13. OOP.md",
+    "Computing/1. Intro to python.md",
+    "Computing/guides/Pseudocode 101.md",
+    "Computing/2. Data types.md",
+    "Computing/guides/Decision tables 101.md",
+    "Computing/guides/Flowchart 101.md",
     "images/economics/sustained economic growth.png",
     "images/economics/long term gorwht rate and short term fluctuations in actual growth.png",
     "images/economics/wage differnetial diagram.png",
@@ -192,8 +217,6 @@
     "images/economics/TRTE for price inelastic demand.jpeg",
     "images/economics/TRTE for price elastic demand.jpeg",
     "images/economics/total ban.jpeg",
-    "images/economics/tax revenue collected.jpeg",
-    "images/economics/subsidy.jpeg",
     "images/physics",
     "images/computing",
     "Computing/guides",
