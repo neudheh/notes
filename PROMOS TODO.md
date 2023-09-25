@@ -1,16 +1,16 @@
 # Computing
 - [x] Chapter 1
 - [x] Chapter 2
-- [ ] Chapter 3
-- [ ] Chapter 4
-- [ ] Chapter 5
-- [ ] Chapter 6
-- [ ] Chapter 7
-- [ ] Chapter 8
-- [ ] Chapter 9
-- [ ] Chapter 10
-- [ ] Chapter 11
-- [ ] Chapter 12
+- [x] Chapter 3
+- [x] Chapter 4
+- [x] Chapter 5
+- [x] Chapter 6
+- [x] Chapter 7
+- [x] Chapter 8
+- [x] Chapter 9
+- [x] Chapter 10
+- [x] Chapter 11
+- [x] Chapter 12
 - [x] Chapter 13
 - [x] Chapter 14
 - [x] Chapter 15
@@ -30,7 +30,7 @@
 # Econs
 - [x] Book 1: Central Problem of Economics
 - [x] Book 2: Demand, Supply, Elasticities
-- [ ] Book 3: Efficiency and Market Failure
+- [x] Book 3: Efficiency and Market Failure
 - [x] Book 4: Inequity
 - [x] Book 5: Government Decision-making and Government Failure
 - [x] Book 6: Standard of Living
