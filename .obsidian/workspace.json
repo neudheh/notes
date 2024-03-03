@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd9e17dce56e6986",
+        "id": "d8a0cab273a50586",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4bfc6de09ee449",
+            "id": "5db2f1f86e5100ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Common Assessments todo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Common Assessments todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "Common Assessments todo.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Common Assessments todo.md"
+              }
             }
           },
           {
@@ -138,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,46 +158,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c4bfc6de09ee449",
+  "active": "5db2f1f86e5100ff",
   "lastOpenFiles": [
-    "Computing/17. Data validation and verification.md",
-    "Computing/18. Binary search tree.md",
-    "Computing/19. Databases.md",
-    "Computing/20. SQL.md",
-    "Computing/22. NoSQL.md",
-    "Computing/21. SQLite with Python.md",
-    "Computing/2. Data types.md",
-    "Common Assessments todo.md",
-    "README.md",
-    "Economics/16. Inflation and deflation.md",
-    "Economics/15. Unemployment.md",
     "Economics/14. Economic growth.md",
-    "Economics/11. Standard of living.md",
-    "Reminders.md",
-    "Physics/10. Superposition.md",
-    "Economics/18. Fiscal policy.md",
+    "Economics/15. Unemployment.md",
     "Economics/17. Balance of payments.md",
+    "Economics/16. Inflation and deflation.md",
+    "Economics/18. Fiscal policy.md",
     "Economics/13. AD-AS Model.md",
     "Economics/12. The circular flow of income.md",
+    "Common Assessments todo.md",
+    "images/economics/potential growth.png",
+    "images/economics/actual growth fall in unit cost.png",
+    "images/economics/actual growth increase in AD.png",
+    "README.md",
+    "images/economics/expansionary fiscal policy.png",
+    "images/economics/expansionary fiscal policy.png",
+    "images/economics/supply side deflation.png",
+    "images/economics/demand side deflation.png",
+    "images/economics/both demand pull and cost push inflation.png",
+    "images/economics/cost push inflation.png",
+    "images/economics/demand pull inflation.png",
     "Economics/1. Central Problem of Economics.md",
-    "Economics/2. Price Mechanism.md",
-    "Economics/3. Elasticity.md",
-    "Economics/5. Market faliure.md",
-    "Economics/7. Inequity.md",
+    "Physics/10. Superposition.md",
+    "Physics/10. Superposition.md",
+    "Physics/13. Thermal physics.md",
+    "Physics/12. DC circuits.md",
+    "Physics/11. Current of electricity.md",
+    "Physics/9. Wave motion.md",
+    "Economics/11. Standard of living.md",
+    "Reminders.md",
     "Economics/9. Government decision making.md",
-    "Economics/8. Policies to solve inequity.md",
-    "images/economics/IMG_5172.jpeg",
-    "images/economics/IMG_5174.jpeg",
+    "Economics/10. Government failure.md",
+    "Computing/22. NoSQL.md",
+    "Computing/21. SQLite with Python.md",
+    "Computing/20. SQL.md",
+    "Computing/19. Databases.md",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
-    "images/computing/Pasted image 20240221002131 1.png",
-    "images/computing/Pasted image 20240221002010 1.png",
-    "images/computing/Pasted image 20240220220435.png",
-    "images/computing/Pasted image 20240220234219.png",
-    "images/computing/Pasted image 20240220234122.png",
-    "images/computing/Pasted image 20240220233945.png",
-    "images/computing/Pasted image 20240220233616.png",
-    "images/computing/Pasted image 20240220233332.png",
     "IMG_2470 1.heic",
     "IMG_2470.heic",
     "Untitled.canvas",
