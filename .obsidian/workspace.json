@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a0cab273a50586",
+        "id": "3163b5785d11e6db",
         "type": "tabs",
         "children": [
           {
-            "id": "5db2f1f86e5100ff",
+            "id": "697924d9adf28b79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Assessments todo.md",
+                "file": "Economics/19. Monetary policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Assessments todo.md",
+                "file": "Economics/19. Monetary policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Assessments todo.md",
+                "file": "Economics/19. Monetary policy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Assessments todo.md"
+                "file": "Economics/19. Monetary policy.md"
               }
             }
           },
@@ -158,20 +158,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5db2f1f86e5100ff",
+  "active": "697924d9adf28b79",
   "lastOpenFiles": [
-    "Economics/14. Economic growth.md",
-    "Economics/15. Unemployment.md",
-    "Economics/17. Balance of payments.md",
-    "Economics/16. Inflation and deflation.md",
     "Economics/18. Fiscal policy.md",
+    "Economics/17. Balance of payments.md",
+    "Economics/19. Monetary policy.md",
+    "Economics/16. Inflation and deflation.md",
     "Economics/13. AD-AS Model.md",
-    "Economics/12. The circular flow of income.md",
+    "Computing/18. Binary search tree.md",
+    "Computing/15. Stack and Queue.md",
+    "Computing/17. Data validation and verification.md",
+    "Computing/20. SQL.md",
+    "Computing/19. Databases.md",
+    "Computing/12. Sort algorithms.md",
+    "Computing/16. Hash Table.md",
     "Common Assessments todo.md",
+    "Reminders.md",
+    "Computing/10. Recursion.md",
+    "Computing/9. Data representation.md",
+    "Computing/8. Flask and Jinja.md",
+    "Computing/7. HTML and CSS.md",
+    "Computing/6. File IO.md",
+    "Computing/4. Data structures.md",
+    "Physics/2. Kinematics.md",
+    "Physics/1. Measurement.md",
+    "README.md",
+    "Computing/22. NoSQL.md",
+    "Computing/13. OOP.md",
+    "Computing/14. Linked List.md",
     "images/economics/potential growth.png",
     "images/economics/actual growth fall in unit cost.png",
     "images/economics/actual growth increase in AD.png",
-    "README.md",
     "images/economics/expansionary fiscal policy.png",
     "images/economics/expansionary fiscal policy.png",
     "images/economics/supply side deflation.png",
@@ -179,21 +196,6 @@
     "images/economics/both demand pull and cost push inflation.png",
     "images/economics/cost push inflation.png",
     "images/economics/demand pull inflation.png",
-    "Economics/1. Central Problem of Economics.md",
-    "Physics/10. Superposition.md",
-    "Physics/10. Superposition.md",
-    "Physics/13. Thermal physics.md",
-    "Physics/12. DC circuits.md",
-    "Physics/11. Current of electricity.md",
-    "Physics/9. Wave motion.md",
-    "Economics/11. Standard of living.md",
-    "Reminders.md",
-    "Economics/9. Government decision making.md",
-    "Economics/10. Government failure.md",
-    "Computing/22. NoSQL.md",
-    "Computing/21. SQLite with Python.md",
-    "Computing/20. SQL.md",
-    "Computing/19. Databases.md",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",

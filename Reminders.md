@@ -1,6 +1,5 @@
 #misc
-# DUE!!! NOW!!!
-- [ ] Economics holiday homework
-- [ ] Economics unemployment tutorial
-# Due later
-- [ ] mug
+## Due NOW!!!!
+- [ ] Physics EM inductions tutorial
+- [ ] Firms and decisions SLS
+- [ ] Mug for Econs Progress Test
