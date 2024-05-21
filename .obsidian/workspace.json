@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22. NoSQL.md",
+                "file": "Computing/22. NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "22. NoSQL.md",
+                "file": "Computing/22. NoSQL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22. NoSQL.md"
+                "file": "Computing/22. NoSQL.md"
               }
             }
           },
@@ -178,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "465022272bbe7437",
+  "active": "e4cbd82faa48438c",
   "lastOpenFiles": [
-    "Computing/22. NoSQL.md",
     "22. NoSQL.md",
+    "Computing/22. NoSQL.md",
     "Computing/21. SQLite with Python.md",
     "Computing/19. Databases.md",
     "ca2 todo.md",
