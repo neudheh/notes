@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "3163b5785d11e6db",
+        "id": "3caad6832219d74a",
         "type": "tabs",
         "children": [
           {
-            "id": "697924d9adf28b79",
+            "id": "e4cbd82faa48438c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/19. Monetary policy.md",
+                "file": "Computing/22. NoSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "829ffaf1c8431a2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465022272bbe7437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22. NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/19. Monetary policy.md",
+                "file": "22. NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/19. Monetary policy.md",
+                "file": "22. NoSQL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/19. Monetary policy.md"
+                "file": "22. NoSQL.md"
               }
             }
           },
@@ -146,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,34 +178,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697924d9adf28b79",
+  "active": "465022272bbe7437",
   "lastOpenFiles": [
-    "Economics/18. Fiscal policy.md",
-    "Economics/17. Balance of payments.md",
-    "Economics/19. Monetary policy.md",
-    "Economics/16. Inflation and deflation.md",
-    "Economics/13. AD-AS Model.md",
-    "Computing/18. Binary search tree.md",
-    "Computing/15. Stack and Queue.md",
-    "Computing/17. Data validation and verification.md",
-    "Computing/20. SQL.md",
+    "Computing/22. NoSQL.md",
+    "22. NoSQL.md",
+    "Computing/21. SQLite with Python.md",
     "Computing/19. Databases.md",
-    "Computing/12. Sort algorithms.md",
-    "Computing/16. Hash Table.md",
-    "Common Assessments todo.md",
+    "ca2 todo.md",
+    "README.md",
+    "Computing/17. Data verification and validation.md",
+    "Computing/18. Binary search tree.md",
+    "Computing/17. Data validation and verification.md",
     "Reminders.md",
-    "Computing/10. Recursion.md",
-    "Computing/9. Data representation.md",
+    "Computing/3. Control flow.md",
+    "Computing/2. Data types.md",
+    "Computing/4. Data structures.md",
+    "Computing/5. Functions.md",
     "Computing/8. Flask and Jinja.md",
     "Computing/7. HTML and CSS.md",
     "Computing/6. File IO.md",
-    "Computing/4. Data structures.md",
-    "Physics/2. Kinematics.md",
-    "Physics/1. Measurement.md",
-    "README.md",
-    "Computing/22. NoSQL.md",
+    "Computing/20. SQL.md",
+    "Computing/10. Recursion.md",
+    "Computing/9. Data representation.md",
+    "Computing/11. Search algorithms.md",
+    "Computing/12. Sort algorithms.md",
     "Computing/13. OOP.md",
+    "Computing/16. Hash Table.md",
     "Computing/14. Linked List.md",
+    "Computing/15. Stack and Queue.md",
+    "images/economics/Pasted image 20240425231856.png",
     "images/economics/potential growth.png",
     "images/economics/actual growth fall in unit cost.png",
     "images/economics/actual growth increase in AD.png",
@@ -195,7 +216,6 @@
     "images/economics/demand side deflation.png",
     "images/economics/both demand pull and cost push inflation.png",
     "images/economics/cost push inflation.png",
-    "images/economics/demand pull inflation.png",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",
