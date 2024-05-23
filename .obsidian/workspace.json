@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3caad6832219d74a",
+        "id": "5a2d432227febdfa",
         "type": "tabs",
         "children": [
           {
-            "id": "e4cbd82faa48438c",
+            "id": "e78d85d475890b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/22. NoSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "829ffaf1c8431a2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "465022272bbe7437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22. NoSQL.md",
+                "file": "ca2 todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/22. NoSQL.md",
+                "file": "ca2 todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/22. NoSQL.md",
+                "file": "ca2 todo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/22. NoSQL.md"
+                "file": "ca2 todo.md"
               }
             }
           },
@@ -177,34 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4cbd82faa48438c",
+  "active": "e78d85d475890b35",
   "lastOpenFiles": [
-    "22. NoSQL.md",
-    "Computing/22. NoSQL.md",
-    "Computing/21. SQLite with Python.md",
-    "Computing/19. Databases.md",
-    "ca2 todo.md",
-    "README.md",
-    "Computing/17. Data verification and validation.md",
+    "Computing/15. Stack and Queue.md",
+    "Computing/15. Stack and Queue.md",
+    "Computing/23. Web app principles.md",
     "Computing/18. Binary search tree.md",
-    "Computing/17. Data validation and verification.md",
-    "Reminders.md",
-    "Computing/3. Control flow.md",
-    "Computing/2. Data types.md",
-    "Computing/4. Data structures.md",
-    "Computing/5. Functions.md",
+    "Computing/17. Data verification and validation.md",
+    "Computing/16. Hash Table.md",
+    "Computing/14. Linked List.md",
+    "Computing/13. OOP.md",
+    "Computing/9. Data representation.md",
     "Computing/8. Flask and Jinja.md",
     "Computing/7. HTML and CSS.md",
     "Computing/6. File IO.md",
-    "Computing/20. SQL.md",
-    "Computing/10. Recursion.md",
-    "Computing/9. Data representation.md",
+    "Computing/5. Functions.md",
+    "Computing/4. Data structures.md",
+    "Computing/3. Control flow.md",
+    "Computing/2. Data types.md",
+    "Computing/1. Intro to python.md",
     "Computing/11. Search algorithms.md",
-    "Computing/12. Sort algorithms.md",
-    "Computing/13. OOP.md",
-    "Computing/16. Hash Table.md",
-    "Computing/14. Linked List.md",
-    "Computing/15. Stack and Queue.md",
+    "Computing/10. Recursion.md",
+    "Computing/20. SQL.md",
+    "ca2 todo.md",
+    "Computing/22. NoSQL.md",
+    "Computing/21. SQLite with Python.md",
+    "Computing/19. Databases.md",
+    "Reminders.md",
+    "README.md",
     "images/economics/Pasted image 20240425231856.png",
     "images/economics/potential growth.png",
     "images/economics/actual growth fall in unit cost.png",

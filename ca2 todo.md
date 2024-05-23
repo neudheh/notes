@@ -1,4 +1,4 @@
-## Econs (9 days)
+66## Econs (9 days)
 - [ ] Book 6
 - [ ] Book 7
 - [ ] Book 8
@@ -8,7 +8,7 @@
 - [ ] Book 12
 - [ ] Book 13
 - [ ] Book 3
-## Computing (1/7 days)
+## Computing (4/7 days)
 - [ ] Control flow
 - [ ] Functions
 - [ ] HTML and CSS
@@ -16,15 +16,15 @@
 - [ ] Recursion
 - [ ] Search algo
 - [ ] Sort algo
-- [ ] OOP
-- [ ] Linked list
-- [ ] Stack and queue
+- [x] OOP
+- [x] Linked list
+- [x] Stack and queue
 - [ ] Hash table
 - [x] Data validation and verification
 - [ ] BST
 - [x] Databases
-- [ ] NoSQL
-- [ ] Web app principles
+- [x] NoSQL
+- [x] Web app principles
 - [ ] Data management
 - [ ] Ethics and impact
 - [ ] Fundamentals of computer networks
