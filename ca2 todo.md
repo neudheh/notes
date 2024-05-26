@@ -1,4 +1,4 @@
-66## Econs (9 days)
+## Econs (9 days)
 - [ ] Book 6
 - [ ] Book 7
 - [ ] Book 8
@@ -8,27 +8,26 @@
 - [ ] Book 12
 - [ ] Book 13
 - [ ] Book 3
-## Computing (4/7 days)
-- [ ] Control flow
-- [ ] Functions
-- [ ] HTML and CSS
+## Computing (7/7 days)
+- [x] Control flow
+- [x] Functions
 - [x] Data representation
-- [ ] Recursion
-- [ ] Search algo
-- [ ] Sort algo
+- [x] Recursion
+- [x] Search algo
+- [x] Sort algo
 - [x] OOP
 - [x] Linked list
 - [x] Stack and queue
-- [ ] Hash table
+- [x] Hash table
 - [x] Data validation and verification
-- [ ] BST
+- [x] BST
 - [x] Databases
 - [x] NoSQL
 - [x] Web app principles
-- [ ] Data management
-- [ ] Ethics and impact
-- [ ] Fundamentals of computer networks
-- [ ] Network Security
+- [x] Data management
+- [x] Ethics and impact
+- [x] Fundamentals of computer networks
+- [x] Network Security
 ## Physics (7 days)
 - [ ] Kinematics
 - [ ] Forces
@@ -47,4 +46,3 @@
 - [ ] Electromagnetism
 - [ ] Electromagnetic induction
 - [ ] AC current
-## Math (7 days)

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a2d432227febdfa",
+        "id": "69f97b4d31548840",
         "type": "tabs",
         "children": [
           {
-            "id": "e78d85d475890b35",
+            "id": "4f94e55fed553cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,6 +140,18 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "aa8306aa5a4c96a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing/18. Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -159,44 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78d85d475890b35",
+  "active": "4f94e55fed553cba",
   "lastOpenFiles": [
-    "Computing/15. Stack and Queue.md",
-    "Computing/15. Stack and Queue.md",
-    "Computing/23. Web app principles.md",
-    "Computing/18. Binary search tree.md",
-    "Computing/17. Data verification and validation.md",
-    "Computing/16. Hash Table.md",
-    "Computing/14. Linked List.md",
-    "Computing/13. OOP.md",
-    "Computing/9. Data representation.md",
-    "Computing/8. Flask and Jinja.md",
-    "Computing/7. HTML and CSS.md",
-    "Computing/6. File IO.md",
     "Computing/5. Functions.md",
-    "Computing/4. Data structures.md",
+    "Computing/5. Functions.md",
     "Computing/3. Control flow.md",
-    "Computing/2. Data types.md",
-    "Computing/1. Intro to python.md",
-    "Computing/11. Search algorithms.md",
+    "Computing/3. Control flow.md",
     "Computing/10. Recursion.md",
-    "Computing/20. SQL.md",
+    "Computing/10. Recursion.md",
     "ca2 todo.md",
-    "Computing/22. NoSQL.md",
-    "Computing/21. SQLite with Python.md",
-    "Computing/19. Databases.md",
+    "Computing/12. Sort algorithms.md",
+    "Computing/12. Sort algorithms.md",
+    "Computing/9. Data representation.md",
     "Reminders.md",
     "README.md",
+    "Computing/11. Search Algorithms.md",
+    "Computing/guides/Pseudocode 101.md",
+    "Computing/11. Search algorithms.md",
+    "Computing/22. NoSQL.md",
+    "Computing/21. SQLite with Python.md",
+    "Computing/20. SQL.md",
+    "Computing/19. Databases.md",
+    "Computing/18. Binary Search Tree.md",
+    "Computing/16. Hash table.md",
+    "Computing/17. Data verification and validation.md",
+    "Computing/15. Stack and Queue.md",
+    "Computing/14. Linked List.md",
+    "Computing/13. OOP.md",
+    "Computing/18. Binary search tree.md",
+    "images/computing/Pasted image 20240526174840.png",
+    "images/computing/Pasted image 20240526125600.png",
+    "images/computing/Pasted image 20240525150047.png",
+    "images/computing/Pasted image 20240525181757.png",
+    "images/computing/Pasted image 20240526002026.png",
+    "Pasted image 20240525144821.png",
+    "Pasted image 20240525144831.png",
+    "Pasted image 20240525144826.png",
     "images/economics/Pasted image 20240425231856.png",
     "images/economics/potential growth.png",
-    "images/economics/actual growth fall in unit cost.png",
-    "images/economics/actual growth increase in AD.png",
-    "images/economics/expansionary fiscal policy.png",
-    "images/economics/expansionary fiscal policy.png",
-    "images/economics/supply side deflation.png",
-    "images/economics/demand side deflation.png",
-    "images/economics/both demand pull and cost push inflation.png",
-    "images/economics/cost push inflation.png",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",
