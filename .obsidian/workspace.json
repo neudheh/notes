@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69f97b4d31548840",
+        "id": "06198db033e4087e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f94e55fed553cba",
+            "id": "bc12265f6ace734d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ca2 todo.md",
+                "file": "18. Fiscal policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ca2 todo.md",
+                "file": "18. Fiscal policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ca2 todo.md",
+                "file": "18. Fiscal policy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ca2 todo.md"
+                "file": "18. Fiscal policy.md"
               }
             }
           },
@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,44 +170,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f94e55fed553cba",
+  "active": "bc12265f6ace734d",
   "lastOpenFiles": [
-    "Computing/5. Functions.md",
-    "Computing/5. Functions.md",
-    "Computing/3. Control flow.md",
-    "Computing/3. Control flow.md",
-    "Computing/10. Recursion.md",
-    "Computing/10. Recursion.md",
+    "Economics/19. Monetary policy.md",
+    "18. Fiscal policy.md",
+    "Economics/24. Policies to address market failure and inequity due to market dominance.md",
+    "Economics/23. Firms strategies.md",
+    "Economics/22. Market structure.md",
+    "Economics/18. Fiscal policy.md",
+    "Economics/20. Supply side policies.md",
+    "Economics/21. Theory of production and cost.md",
     "ca2 todo.md",
-    "Computing/12. Sort algorithms.md",
-    "Computing/12. Sort algorithms.md",
-    "Computing/9. Data representation.md",
-    "Reminders.md",
+    "images/economics/allocative inefficency firms.png",
+    "images/economics/changes in demand affecting profits of an MC firm.png",
+    "images/economics/subnormal profits.png",
+    "Pasted image 20240601231419.png",
+    "images/economics/normal profits.png",
+    "images/economics/supernormal profits.png",
+    "images/economics/natural monopoly.png",
+    "Economics/15. Unemployment.md",
+    "images/economics/Shifting of LRAC curve.png",
+    "images/economics/LRAC curves for each firm.png",
+    "images/economics/LRAC curve of different firms.png",
+    "Economics/17. Balance of payments.md",
+    "Economics/17. Balance of payments.md",
+    "Economics/16. Inflation and deflation.md",
+    "Economics/13. AD-AS model.md",
     "README.md",
-    "Computing/11. Search Algorithms.md",
-    "Computing/guides/Pseudocode 101.md",
-    "Computing/11. Search algorithms.md",
-    "Computing/22. NoSQL.md",
-    "Computing/21. SQLite with Python.md",
-    "Computing/20. SQL.md",
-    "Computing/19. Databases.md",
-    "Computing/18. Binary Search Tree.md",
-    "Computing/16. Hash table.md",
-    "Computing/17. Data verification and validation.md",
-    "Computing/15. Stack and Queue.md",
-    "Computing/14. Linked List.md",
-    "Computing/13. OOP.md",
-    "Computing/18. Binary search tree.md",
-    "images/computing/Pasted image 20240526174840.png",
-    "images/computing/Pasted image 20240526125600.png",
-    "images/computing/Pasted image 20240525150047.png",
-    "images/computing/Pasted image 20240525181757.png",
-    "images/computing/Pasted image 20240526002026.png",
-    "Pasted image 20240525144821.png",
-    "Pasted image 20240525144831.png",
-    "Pasted image 20240525144826.png",
-    "images/economics/Pasted image 20240425231856.png",
-    "images/economics/potential growth.png",
+    "Reminders.md",
+    "Economics/13. AD-AS Model.md",
+    "Economics/14. Economic growth.md",
+    "Economics/6. Policies to solve market faliure.md",
+    "Economics/7. Inequity.md",
+    "Economics/12. The circular flow of income.md",
+    "Economics/9. Government decision making.md",
+    "Economics/5. Market faliure.md",
+    "Economics/1. Central Problem of Economics.md",
+    "Economics/3. Elasticity.md",
+    "Economics/4. Allocative efficiency  in the free market.md",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",
