@@ -1,13 +1,13 @@
-## Econs (6/10 days)
-- [ ] Book 6 - Standard of Living
+## Econs (14/14 days)
+- [x] Book 6 - Standard of Living
 - [x] Book 7 - Macroeconomic variables and models
-- [ ] Book 8 - Economic growth
+- [x] Book 8 - Economic growth
 - [x] Book 9  - Unemployment
 - [x] Book 10 - Inflation and deflation
 - [x] Book 11 - BOP and Forex
-- [ ] Book 12 - Macro policies
-- [ ] Book 13 - Firms and decisions
-- [ ] Book 3 - Market Failure
+- [x] Book 12 - Macro policies
+- [x] Book 13 - Firms and decisions
+- [x] Book 3 - Market Failure
 ## Computing (7/7 days)
 - [x] Control flow
 - [x] Functions

@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "06198db033e4087e",
+        "id": "a417407d83e0d64e",
         "type": "tabs",
         "children": [
           {
-            "id": "bc12265f6ace734d",
+            "id": "44f5c97f1121bfa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18. Fiscal policy.md",
+                "file": "ca2 todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80832b4b5cdb02aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/14. Economic growth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18. Fiscal policy.md",
+                "file": "ca2 todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18. Fiscal policy.md",
+                "file": "ca2 todo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18. Fiscal policy.md"
+                "file": "ca2 todo.md"
               }
             }
           },
@@ -145,12 +157,8 @@
             "id": "aa8306aa5a4c96a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/18. Binary Search Tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -170,44 +178,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc12265f6ace734d",
+  "active": "44f5c97f1121bfa4",
   "lastOpenFiles": [
-    "Economics/19. Monetary policy.md",
-    "18. Fiscal policy.md",
+    "Economics/14. Economic growth.md",
+    "ca2 todo.md",
+    "Reminders.md",
     "Economics/24. Policies to address market failure and inequity due to market dominance.md",
     "Economics/23. Firms strategies.md",
+    "images/economics/regulate pricing.png",
     "Economics/22. Market structure.md",
-    "Economics/18. Fiscal policy.md",
-    "Economics/20. Supply side policies.md",
     "Economics/21. Theory of production and cost.md",
-    "ca2 todo.md",
-    "images/economics/allocative inefficency firms.png",
-    "images/economics/changes in demand affecting profits of an MC firm.png",
-    "images/economics/subnormal profits.png",
-    "Pasted image 20240601231419.png",
-    "images/economics/normal profits.png",
-    "images/economics/supernormal profits.png",
-    "images/economics/natural monopoly.png",
-    "Economics/15. Unemployment.md",
-    "images/economics/Shifting of LRAC curve.png",
-    "images/economics/LRAC curves for each firm.png",
-    "images/economics/LRAC curve of different firms.png",
-    "Economics/17. Balance of payments.md",
-    "Economics/17. Balance of payments.md",
-    "Economics/16. Inflation and deflation.md",
-    "Economics/13. AD-AS model.md",
-    "README.md",
-    "Reminders.md",
-    "Economics/13. AD-AS Model.md",
-    "Economics/14. Economic growth.md",
+    "images/economics/revenue maximisation.png",
+    "images/economics/advertising.png",
+    "images/economics/limit pricing.png",
+    "Economics/20. Supply side policies.md",
+    "Economics/20. Supply side policies.md",
     "Economics/6. Policies to solve market faliure.md",
-    "Economics/7. Inequity.md",
-    "Economics/12. The circular flow of income.md",
-    "Economics/9. Government decision making.md",
+    "README.md",
     "Economics/5. Market faliure.md",
-    "Economics/1. Central Problem of Economics.md",
-    "Economics/3. Elasticity.md",
-    "Economics/4. Allocative efficiency  in the free market.md",
+    "Economics/7. Inequity.md",
+    "Economics/8. Policies to solve inequity.md",
+    "Economics/11. Standard of living.md",
+    "Economics/19. Monetary policy.md",
+    "Physics/11. Current of electricity.md",
+    "Physics/12. DC circuits.md",
+    "images/economics/Pasted image 20240606005045.png",
+    "Economics/18. Fiscal policy.md",
+    "images/economics/collusion.png",
+    "images/economics/diversification of firms.png",
+    "images/economics/process innovation.png",
+    "images/economics/advertising and product innovation.png",
+    "images/economics/argument for monopolies.png",
+    "Economics/16. Inflation and deflation.md",
+    "Economics/17. Balance of payments.md",
+    "Economics/15. Unemployment.md",
+    "fiscal.md",
+    "Economics/13. AD-AS model.md",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",
