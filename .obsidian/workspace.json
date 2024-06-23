@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a417407d83e0d64e",
+        "id": "1ecd059f22cf9454",
         "type": "tabs",
         "children": [
           {
-            "id": "44f5c97f1121bfa4",
+            "id": "60baeff29f0c2c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "80832b4b5cdb02aa",
+            "id": "51076205ec51967b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/14. Economic growth.md",
+                "file": "Physics/5. Work, energy, power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fbfaa5f73656ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/13. Thermal physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,42 +190,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44f5c97f1121bfa4",
+  "active": "60baeff29f0c2c24",
   "lastOpenFiles": [
-    "Economics/14. Economic growth.md",
-    "ca2 todo.md",
     "Reminders.md",
-    "Economics/24. Policies to address market failure and inequity due to market dominance.md",
-    "Economics/23. Firms strategies.md",
-    "images/economics/regulate pricing.png",
-    "Economics/22. Market structure.md",
-    "Economics/21. Theory of production and cost.md",
-    "images/economics/revenue maximisation.png",
-    "images/economics/advertising.png",
-    "images/economics/limit pricing.png",
-    "Economics/20. Supply side policies.md",
-    "Economics/20. Supply side policies.md",
-    "Economics/6. Policies to solve market faliure.md",
+    "Physics/14. Thermodynamics.md",
+    "images/physics/cyclic.png",
+    "Physics/13. Thermal physics.md",
+    "images/physics/adibatic.png",
+    "images/physics/isothermal.png",
+    "Physics/15. Electric fields.md",
+    "images/physics/isobaric.png",
+    "images/physics/isochoric.png",
+    "Physics/5. Work, energy, power.md",
+    "Physics/4. Forces.md",
+    "ca2 todo.md",
     "README.md",
-    "Economics/5. Market faliure.md",
-    "Economics/7. Inequity.md",
-    "Economics/8. Policies to solve inequity.md",
-    "Economics/11. Standard of living.md",
-    "Economics/19. Monetary policy.md",
-    "Physics/11. Current of electricity.md",
+    "Physics/17. Electromagnetic induction.md",
+    "Physics/18. Alternating current.md",
+    "images/physics/half wave rectification.png",
+    "images/physics/transformer.png",
+    "images/physics/power in ac.png",
+    "images/physics/r.m.s for sinusoidal AC.png",
+    "images/physics/rms values.png",
+    "Physics/16. Electromagnetism.md",
     "Physics/12. DC circuits.md",
-    "images/economics/Pasted image 20240606005045.png",
-    "Economics/18. Fiscal policy.md",
-    "images/economics/collusion.png",
-    "images/economics/diversification of firms.png",
-    "images/economics/process innovation.png",
-    "images/economics/advertising and product innovation.png",
-    "images/economics/argument for monopolies.png",
-    "Economics/16. Inflation and deflation.md",
+    "Physics/11. Current of electricity.md",
+    "Physics/1. Measurement.md",
+    "Physics/8. Oscillations.md",
+    "Physics/9. Wave motion.md",
+    "Physics/10. Superposition.md",
+    "Physics/2. Kinematics.md",
+    "Physics/7. Gravitation.md",
+    "Physics/6. Motion in a circle.md",
+    "Physics/6. Motion in a circle.md",
+    "Physics/3. Dyanmics.md",
+    "Physics/3. Dynamics.md",
+    "Physics/5. Work, energy and power.md",
     "Economics/17. Balance of payments.md",
-    "Economics/15. Unemployment.md",
-    "fiscal.md",
-    "Economics/13. AD-AS model.md",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",

@@ -28,21 +28,21 @@
 - [x] Ethics and impact
 - [x] Fundamentals of computer networks
 - [x] Network Security
-## Physics (7 days)
-- [ ] Kinematics
-- [ ] Forces
-- [ ] Dynamics
-- [ ] Work energy power
-- [ ] Circular motion
-- [ ] Gravitation
-- [ ] Oscillations
-- [ ] Waves
-- [ ] Superposition
-- [ ] Current of electricity
-- [ ] DC circuits
-- [ ] Temperature and ideal gas
-- [ ] Thermodynamics
-- [ ] Electric fields
-- [ ] Electromagnetism
-- [ ] Electromagnetic induction
-- [ ] AC current
+## Physics (9/9 days)
+- [x] Kinematics
+- [x] Forces
+- [x] Dynamics
+- [x] Work energy power
+- [x] Circular motion
+- [x] Gravitation
+- [x] Oscillations
+- [x] Waves
+- [x] Superposition
+- [x] Current of electricity
+- [x] DC circuits
+- [x] Temperature and ideal gas
+- [x] Thermodynamics
+- [x] Electric fields
+- [x] Electromagnetism
+- [x] Electromagnetic induction
+- [x] AC current
