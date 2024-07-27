@@ -1,0 +1,71 @@
+## Econs (14 days)
+- [ ] Book 1 - Central problem of economics
+- [ ] Book 2 - Demand and Supply, and elasticity
+- [ ] Book 3 - Market failure
+- [ ] Book 4 - Inequity
+- [ ] Book 5 - Government failure
+- [ ] Book 6 - Standard of Living
+- [ ] Book 7 - Macroeconomic variables and models
+- [ ] Book 8 - Economic growth
+- [ ] Book 9 - Unemployment
+- [ ] Book 10 - Inflation and deflation
+- [ ] Book 11 - BOP and Forex
+- [ ] Book 12 - Macro policies
+- [ ] Book 13 - Firms and decisions
+- [ ] Book 14 - Globalization and International trade
+## Computing (theory) 
+- [ ] Control flow
+- [ ] Functions
+- [ ] Data representation
+- [ ] Recursion
+- [ ] Search algo
+- [ ] Sort algo
+- [ ] OOP
+- [ ] Linked list
+- [ ] Stack and queue
+- [ ] Hash table
+- [ ] Data validation and verification
+- [ ] BST
+- [ ] Databases
+- [ ] NoSQL
+- [ ] Web app principles
+- [ ] Data management
+- [ ] Ethics and impact
+- [ ] Fundamentals of computer networks
+- [ ] Network Security
+## Computing (practical) (4/4 days)
+- [x] File IO
+- [x] HTML and CSS
+- [x] Flask and Jinja
+- [x] Data representation
+- [x] Search Algo
+- [x] Sort Algo
+- [x] Linked List
+- [x] Stack and Queue
+- [x] Hash table
+- [x] BST
+- [x] SQL
+- [x] SQLite with python
+- [x] NoSQL
+- [x] Computer networks
+## Physics (3/7 days)
+- [x] Measurement
+- [x] Kinematics
+- [x] Forces
+- [x] Dynamics
+- [ ] Work energy power
+- [ ] Circular motion
+- [ ] Gravitation
+- [ ] Oscillations
+- [ ] Waves
+- [ ] Superposition
+- [ ] Current of electricity
+- [ ] DC circuits
+- [ ] Temperature and ideal gas
+- [ ] Thermodynamics
+- [ ] Electric fields
+- [ ] Electromagnetism
+- [ ] Electromagnetic induction
+- [ ] AC current
+- [ ] Quantum
+- [ ] Nuclear
