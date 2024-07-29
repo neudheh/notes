@@ -48,21 +48,21 @@
 - [x] SQLite with python
 - [x] NoSQL
 - [x] Computer networks
-## Physics (3/7 days)
+## Physics (5/7 days)
 - [x] Measurement
 - [x] Kinematics
 - [x] Forces
 - [x] Dynamics
-- [ ] Work energy power
-- [ ] Circular motion
+- [x] Work energy power
+- [x] Circular motion
 - [ ] Gravitation
-- [ ] Oscillations
+- [x] Oscillations
 - [ ] Waves
-- [ ] Superposition
+- [x] Superposition
 - [ ] Current of electricity
 - [ ] DC circuits
-- [ ] Temperature and ideal gas
-- [ ] Thermodynamics
+- [x] Temperature and ideal gas
+- [x] Thermodynamics
 - [ ] Electric fields
 - [ ] Electromagnetism
 - [ ] Electromagnetic induction
