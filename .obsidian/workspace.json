@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "608910464d61a75a",
+            "id": "b72b0f9794009ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/8. Oscillations.md",
+                "file": "Physics/11. Current of electricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/8. Oscillations.md",
+                "file": "Physics/11. Current of electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/8. Oscillations.md",
+                "file": "Physics/11. Current of electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/8. Oscillations.md"
+                "file": "Physics/11. Current of electricity.md"
               }
             }
           },
@@ -167,12 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "608910464d61a75a",
+  "active": "b72b0f9794009ea0",
   "lastOpenFiles": [
+    "prelims todo.md",
+    "Physics/18. Alternating current.md",
+    "Physics/8. Oscillations.md",
+    "Physics/9. Wave motion.md",
+    "Physics/9. Wave motion.md",
     "Physics/7. Gravitation.md",
     "Physics/7. Gravitation.md",
     "images/physics/energy of a satellite.png",
-    "Physics/18. Alternating current.md",
     "Physics/17. Electromagnetic induction.md",
     "Physics/16. Electromagnetism.md",
     "Physics/15. Electric fields.md",
@@ -181,12 +185,9 @@
     "Physics/12. DC circuits.md",
     "Physics/11. Current of electricity.md",
     "Physics/10. Superposition.md",
-    "Physics/9. Wave motion.md",
-    "Physics/8. Oscillations.md",
     "Physics/6. Motion in a circle.md",
     "Physics/3. Dynamics.md",
     "Physics/5. Work, energy, power.md",
-    "prelims todo.md",
     "images/physics/water in a bucket.png",
     "Reminders.md",
     "README.md",
