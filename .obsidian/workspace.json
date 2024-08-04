@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29a9f92f6416084f",
+        "id": "f4ee4e9f5ebe489c",
         "type": "tabs",
         "children": [
           {
-            "id": "b72b0f9794009ea0",
+            "id": "b736a28110bf7944",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/11. Current of electricity.md",
+                "file": "Physics/18. Alternating current.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/11. Current of electricity.md",
+                "file": "Physics/18. Alternating current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/11. Current of electricity.md",
+                "file": "Physics/18. Alternating current.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/11. Current of electricity.md"
+                "file": "Physics/18. Alternating current.md"
               }
             }
           },
@@ -154,12 +154,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,43 +166,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72b0f9794009ea0",
+  "active": "b736a28110bf7944",
   "lastOpenFiles": [
     "prelims todo.md",
     "Physics/18. Alternating current.md",
-    "Physics/8. Oscillations.md",
-    "Physics/9. Wave motion.md",
-    "Physics/9. Wave motion.md",
-    "Physics/7. Gravitation.md",
-    "Physics/7. Gravitation.md",
-    "images/physics/energy of a satellite.png",
+    "Physics/18. Alternating current.md",
+    "Pasted image 20240803120425.png",
+    "Physics/20. Nuclear.md",
+    "Physics/19. Quantum.md",
+    "Physics/10. Superposition.md",
+    "images/physics/x-ray spectrum.png",
+    "images/physics/x-ray setup.png",
+    "images/physics/emission line spectra of hydrogen atoms.png",
+    "images/physics/absorption line spectrum.png",
+    "Pasted image 20240802234253.png",
+    "Pasted image 20240802234307.png",
+    "images/physics/absorption line spectra set up.png",
+    "images/physics/emission line spectrum.png",
+    "Pasted image 20240802232856.png",
     "Physics/17. Electromagnetic induction.md",
+    "Physics/13. Thermal physics.md",
     "Physics/16. Electromagnetism.md",
     "Physics/15. Electric fields.md",
     "Physics/14. Thermodynamics.md",
-    "Physics/13. Thermal physics.md",
-    "Physics/12. DC circuits.md",
-    "Physics/11. Current of electricity.md",
-    "Physics/10. Superposition.md",
-    "Physics/6. Motion in a circle.md",
-    "Physics/3. Dynamics.md",
-    "Physics/5. Work, energy, power.md",
-    "images/physics/water in a bucket.png",
-    "Reminders.md",
-    "README.md",
-    "images/physics/isothermal.png",
-    "Physics/4. Forces.md",
-    "Physics/2. Kinematics.md",
     "Physics/1. Measurement.md",
-    "Physics/3. Dyanmics.md",
+    "Physics/2. Kinematics.md",
+    "Physics/3. Dynamics.md",
+    "Physics/4. Forces.md",
+    "Physics/5. Work, energy, power.md",
+    "Physics/6. Motion in a circle.md",
+    "Physics/7. Gravitation.md",
+    "Physics/8. Oscillations.md",
+    "Physics/9. Wave motion.md",
+    "Physics/11. Current of electricity.md",
+    "Physics/12. DC circuits.md",
+    "README.md",
+    "Untitled 1.md",
+    "charge.md",
     "Untitled",
-    "images/physics/cyclic.png",
-    "images/physics/adibatic.png",
-    "images/physics/isobaric.png",
-    "images/physics/isochoric.png",
-    "images/physics/half wave rectification.png",
-    "images/physics/transformer.png",
-    "images/physics/power in ac.png",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",

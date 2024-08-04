@@ -48,7 +48,7 @@
 - [x] SQLite with python
 - [x] NoSQL
 - [x] Computer networks
-## Physics (6/7 days)
+## Physics (9/7 days)
 - [x] Measurement
 - [x] Kinematics
 - [x] Forces
@@ -59,13 +59,13 @@
 - [x] Oscillations
 - [x] Waves
 - [x] Superposition
-- [ ] Current of electricity
-- [ ] DC circuits
+- [x] Current of electricity
+- [x] DC circuits
 - [x] Temperature and ideal gas
 - [x] Thermodynamics
-- [ ] Electric fields
-- [ ] Electromagnetism
-- [ ] Electromagnetic induction
-- [ ] AC current
-- [ ] Quantum
+- [x] Electric fields
+- [x] Electromagnetism
+- [x] Electromagnetic induction
+- [x] AC current
+- [x] Quantum
 - [ ] Nuclear
