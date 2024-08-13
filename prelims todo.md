@@ -1,4 +1,4 @@
-## Econs (5/16 days)
+## Econs (9/18 days)
 - [x] Book 1 - Central problem of economics
 - [x] Book 2 - Demand and Supply, and elasticity
 - [x] Book 3 - Market failure
@@ -11,9 +11,9 @@
 - [ ] Book 10 - Inflation and deflation
 - [ ] Book 11 - BOP and Forex
 - [ ] Book 12 - Macro policies
-- [ ] Book 13 - Firms and decisions
+- [x] Book 13 - Firms and decisions
 - [ ] Book 14 - Globalisation and International trade
-## Computing (theory) 
+## Computing (theory) (5 days)
 - [ ] Control flow
 - [ ] Functions
 - [ ] Data representation
