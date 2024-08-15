@@ -1,19 +1,19 @@
-## Econs (9/18 days)
+## Econs (10/18 days)
 - [x] Book 1 - Central problem of economics
 - [x] Book 2 - Demand and Supply, and elasticity
 - [x] Book 3 - Market failure
 - [x] Book 4 - Inequity
 - [x] Book 5 - Government failure
-- [ ] Book 6 - Standard of Living
+- [x] Book 6 - Standard of Living
 - [ ] Book 7 - Macroeconomic variables and models
 - [ ] Book 8 - Economic growth
-- [ ] Book 9 - Unemployment
+- [x] Book 9 - Unemployment
 - [ ] Book 10 - Inflation and deflation
 - [ ] Book 11 - BOP and Forex
 - [ ] Book 12 - Macro policies
 - [x] Book 13 - Firms and decisions
-- [ ] Book 14 - Globalisation and International trade
-## Computing (theory) (5 days)
+- [ ] Book 14 - Globalization and International trade
+## Computing (theory) (4 days)
 - [ ] Control flow
 - [ ] Functions
 - [ ] Data representation
