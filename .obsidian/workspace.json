@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71159ea70d33f939",
+        "id": "203535a80bf9307b",
         "type": "tabs",
         "children": [
           {
-            "id": "4e034b41aa022a34",
+            "id": "5b5e09fb6b896ef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/14. Unemployment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d1049dde231cabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/12. AD-AS Model.md",
+                "file": "Computing/6. File IO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/12. AD-AS Model.md",
+                "file": "Computing/6. File IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/12. AD-AS Model.md",
+                "file": "Computing/6. File IO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/12. AD-AS Model.md"
+                "file": "Computing/6. File IO.md"
               }
             }
           },
@@ -179,34 +167,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d1049dde231cabd",
+  "active": "5b5e09fb6b896ef4",
   "lastOpenFiles": [
-    "Economics/14. Unemployment.md",
-    "Economics/11. The circular flow of income.md",
-    "Economics/13. Economic growth.md",
-    "Economics/11. The circular flow of income.md",
-    "Economics/12. AD-AS Model.md",
-    "Physics/1. Measurement.md",
-    "Economics/15. Inflation and deflation.md",
-    "Physics/16. Electromagnetism.md",
-    "Physics/7. Gravitation.md",
+    "Economics/3. Elasticity.md",
+    "Economics/12. AD-AS model.md",
     "prelims todo.md",
-    "Reminders.md",
-    "README.md",
-    "Economics/10. Standard of living.md",
-    "Economics/10. Standard of living.md",
-    "Economics/9. Government decision making.md",
+    "Economics/19. Supply side policies.md",
+    "Economics/19. Supply side policies.md",
+    "Economics/18. Monetary policy.md",
     "Economics/17. Fiscal policy.md",
     "Economics/16. Balance of payments.md",
+    "Reminders.md",
+    "Economics/20. Theory of production and cost.md",
     "Economics/23. Policies to address market dominance.md",
-    "Economics/19. Supply side policies.md",
     "Economics/22. Firm's strategies.md",
     "Economics/21. Market structure.md",
+    "README.md",
+    "Computing/12. Sort algorithms.md",
+    "Computing/11. Search algorithms.md",
+    "Computing/6. File IO.md",
+    "Economics/15. Inflation and deflation.md",
+    "Economics/14. Unemployment.md",
+    "Economics/13. Economic growth.md",
+    "Economics/11. The circular flow of income.md",
+    "Economics/9. Government decision making.md",
+    "Economics/10. Standard of living.md",
+    "Economics/8. Policies to solve inequity.md",
     "Economics/7. Inequity.md",
-    "Economics/18. Monetary policy.md",
-    "Economics/5. Market faliure.md",
-    "20. Theory of production and cost.md",
-    "Economics/20. Theory of production and cost.md",
     "Pasted image 20240803120425.png",
     "images/physics/x-ray spectrum.png",
     "images/physics/x-ray setup.png",
