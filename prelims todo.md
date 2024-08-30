@@ -13,7 +13,7 @@
 - [x] Book 12 - Macro policies
 - [x] Book 13 - Firms and decisions
 - [x] Book 14 - Globalisation and International trade
-## Computing (theory) (4 days)
+## Computing (theory) (1/4 days)
 - [ ] Control flow
 - [ ] Functions
 - [ ] Data representation

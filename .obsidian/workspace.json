@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fec538ebde2cc4a2",
+        "id": "28ddad9ee37b1c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d1bfd50d546654e",
+            "id": "8091289e57ed6250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/17. Electromagnetic induction.md",
+                "file": "Physics/20. Nuclear.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "16c4713a3e66b9f4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/17. Electromagnetic induction.md",
+                "file": "Physics/20. Nuclear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/17. Electromagnetic induction.md",
+                "file": "Physics/20. Nuclear.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/17. Electromagnetic induction.md"
+                "file": "Physics/20. Nuclear.md"
               }
             }
           },
@@ -167,44 +166,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d1bfd50d546654e",
+  "active": "8091289e57ed6250",
   "lastOpenFiles": [
-    "Physics/11. Current of electricity.md",
-    "Physics/17. Electromagnetic induction.md",
-    "Physics/10. Superposition.md",
-    "Economics/18. Monetary policy.md",
-    "Economics/20. Theory of production and cost.md",
+    "images/physics/rate of decay.png",
+    "Physics/20. Nuclear.md",
     "prelims todo.md",
-    "Reminders.md",
-    "README.md",
+    "Physics/16. Electromagnetism.md",
+    "Physics/17. Electromagnetic induction.md",
+    "Physics/18. Alternating current.md",
+    "Physics/19. Quantum.md",
+    "images/physics/binding energy per nucleon.png",
+    "images/physics/rutherford experiment findings.png",
+    "images/physics/rutherford's alpha particle scattering experiment.png",
+    "images/physics/scattering of alpha particles from gold foil.png",
+    "Economics/8. Policies to solve inequity.md",
+    "Economics/6. Policies to solve market faliure.md",
+    "Economics/5. Market faliure.md",
+    "Economics/7. Inequity.md",
+    "Economics/16. Balance of payments.md",
+    "Economics/15. Inflation and deflation.md",
+    "Economics/14. Unemployment.md",
+    "Economics/13. Economic growth.md",
+    "Economics/12. AD-AS model.md",
+    "Economics/11. The circular flow of income.md",
+    "Economics/10. Standard of living.md",
+    "Economics/9. Government decision making.md",
+    "Physics/4. Forces.md",
+    "Economics/20. Theory of production and cost.md",
     "Economics/26. Trade policies.md",
     "Economics/25. Benefit and costs of globalisation.md",
     "Economics/24. Globalisation and the international economy.md",
-    "Economics/16. Balance of payments.md",
-    "Physics/12. DC circuits.md",
-    "Physics/14. Thermodynamics.md",
-    "Physics/13. Thermal physics.md",
-    "Physics/18. Alternating current.md",
-    "Physics/15. Electric fields.md",
-    "Physics/16. Electromagnetism.md",
-    "Physics/7. Gravitation.md",
-    "Physics/9. Wave motion.md",
-    "Physics/19. Quantum.md",
-    "Physics/20. Nuclear.md",
-    "Economics/9. Government decision making.md",
-    "Economics/6. Policies to solve market faliure.md",
+    "Economics/23. Policies to address market dominance.md",
+    "Economics/22. Firm's strategies.md",
     "images/economics/import quota.png",
     "images/economics/tarrifs.png",
-    "Economics/22. Firm's strategies.md",
-    "Computing/6. File IO.md",
     "Pasted image 20240803120425.png",
     "images/physics/x-ray spectrum.png",
     "images/physics/x-ray setup.png",
-    "images/physics/emission line spectra of hydrogen atoms.png",
-    "images/physics/absorption line spectrum.png",
-    "Pasted image 20240802234253.png",
-    "Pasted image 20240802234307.png",
-    "images/physics/absorption line spectra set up.png",
     "Untitled",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
