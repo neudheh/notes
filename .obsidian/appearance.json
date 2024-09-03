@@ -1,7 +1,7 @@
 {
   "accentColor": "#07b971",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Helvetica,Inter",
+  "textFontFamily": "Helvetica,Inter",
   "monospaceFontFamily": "Source Code Pro",
   "theme": "obsidian",
   "baseFontSize": 16,

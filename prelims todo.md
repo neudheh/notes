@@ -13,26 +13,26 @@
 - [x] Book 12 - Macro policies
 - [x] Book 13 - Firms and decisions
 - [x] Book 14 - Globalisation and International trade
-## Computing (theory) (1/4 days)
-- [ ] Control flow
-- [ ] Functions
-- [ ] Data representation
-- [ ] Recursion
-- [ ] Search algo
-- [ ] Sort algo
-- [ ] OOP
-- [ ] Linked list
-- [ ] Stack and queue
-- [ ] Hash table
-- [ ] Data validation and verification
-- [ ] BST
-- [ ] Databases
-- [ ] NoSQL
-- [ ] Web app principles
-- [ ] Data management
-- [ ] Ethics and impact
-- [ ] Fundamentals of computer networks
-- [ ] Network Security
+## Computing (theory) (6/4 days)
+- [x] Control flow
+- [x] Functions
+- [x] Data representation
+- [x] Recursion
+- [x] Search algo
+- [x] Sort algo
+- [x] OOP
+- [x] Linked list
+- [x] Stack and queue
+- [x] Hash table
+- [x] Data validation and verification
+- [x] BST
+- [x] Databases
+- [x] NoSQL
+- [x] Web app principles
+- [x] Data management
+- [x] Ethics and impact
+- [x] Fundamentals of computer networks
+- [x] Network Security
 ## Computing (practical) (4/4 days)
 - [x] File IO
 - [x] HTML and CSS
@@ -68,4 +68,4 @@
 - [x] Electromagnetic induction
 - [x] AC current
 - [x] Quantum
-- [ ] Nuclear
+- [x] Nuclear

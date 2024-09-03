@@ -8,5 +8,6 @@
   },
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "readableLineLength": true
 }
