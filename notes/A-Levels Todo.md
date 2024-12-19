@@ -1,0 +1,82 @@
+## Computing (practical) (2/2 days)
+- [x] File IO
+- [x] HTML and CSS
+- [x] Flask and Jinja (do papers 🙏)
+- [x] Data representation
+- [x] Search Algo
+- [x] Sort Algo
+- [x] Linked List
+- [x] Stack and Queue
+- [x] Hash table
+- [x] BST
+- [x] SQL  (do papers 🙏)
+- [x] SQLite with python  (do papers 🙏)
+- [x] NoSQL
+- [x] Computer networks
+## Physics (8/8 days)
+- [x] Measurement
+- [x] Kinematics
+- [x] Forces
+- [x] Dynamics
+- [x] Work energy power
+- [x] Circular motion
+- [x] Gravitation
+- [x] Oscillations
+- [x] Waves
+- [x] Superposition
+- [x] Current of electricity
+- [x] DC circuits
+- [x] Temperature and ideal gas
+- [x] Thermodynamics
+- [x] Electric fields
+- [x] Electromagnetism
+- [x] Electromagnetic induction
+- [x] AC current
+- [x] Quantum
+- [x] Nuclear
+## Econs (11/10 days)
+- [x] Book 1 - Central problem of economics
+- [x] Book 2 - Demand and Supply, elasticity
+- [x] Book 3 - Market failure
+- [x] Book 4 - Inequity
+- [x] Book 5 - Government failure
+- [x] Book 6 - Standard of Living
+- [x] Book 7 - Macroeconomic variables and models
+- [x] Book 8 - Economic growth
+- [x] Book 9 - Unemployment
+- [x] Book 10 - Inflation and deflation
+- [x] Book 11 - BOP and Forex
+- [x] Book 12 - Macro policies
+- [x] Book 13 - Firms and decisions
+- [x] Book 14 - Globalisation and International trade
+## Computing (theory) (4/4 days)
+- [x] Recursion
+- [x] Search algo
+- [x] Sort algo
+- [x] OOP
+- [x] Linked list
+- [x] Stack and queue
+- [x] Hash table
+- [x] Data validation and verification
+- [x] BST
+- [x] Databases
+- [x] NoSQL
+- [x] Web app principles
+- [x] Data management
+- [x] Ethics and impact
+- [x] Fundamentals of computer networks
+- [x] Network Security
+
+## Math (4/4 Days)
+- [x] Functions (Q1, 4, 7, 10, 18,19)
+- [x] Inequalities (Q7, 8, 18, 19)
+- [x] Differentiation (Q1, 6, 10, 16, 18, 32, 35)
+- [x] Integration (Q3, 6, 11), (Q1, 2, 5, 10, 14, 17, 21), (Q7, 8, 14, 16, 18)
+- [x] Graphs (Q4, 5, 6, 7, 8, 13, 14)
+- [x] Sequences & Series (Q1, 4, 11, 18, 21)
+- [x] Complex Numbers (Remedial worksheet)
+- [x] Vectors (Q1, 3, 5, 6, 8, 12, 27, 22, 23, 24, 26)
+- [x] P&C, Probability (Q5, 8, 9, 11), (Q1, 4, 8, 11, 13),  (Q3, 5, 6, 11, 12)
+- [x] DRV, Binomial, Normal (Q2, 4, 5, 7, 9, 14, 17, 19, 21, 32, 34)
+- [x] Sampling distribution, Hypo testing (Math Prog)
+- [x] Correlation & Linear Regression (Math Prog)

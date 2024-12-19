@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d11c9a3c664d908b",
+            "id": "19518bd93736a47b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prelims todo.md",
+                "file": "notes/Computing/24. Data management.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24. Data management"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prelims todo.md",
+                "file": "notes/Computing/17. Data verification and validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 17. Data verification and validation"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prelims todo.md",
+                "file": "notes/Computing/17. Data verification and validation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 17. Data verification and validation"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prelims todo.md"
-              }
+                "file": "notes/Economics/22. Firm's strategies.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 22. Firm's strategies"
             }
           },
           {
@@ -138,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -146,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -167,53 +187,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d11c9a3c664d908b",
+  "active": "19518bd93736a47b",
   "lastOpenFiles": [
-    "Computing/24. Data management.md",
-    "Computing/24. Data management.md",
-    "prelims todo.md",
-    "Computing/25. Ethics and impact.md",
-    "Computing/23. Web app principles.md",
-    "Physics/20. Nuclear.md",
-    "Physics/19. Quantum.md",
-    "Computing/21. SQLite with Python.md",
-    "Computing/22. NoSQL.md",
-    "Computing/22. NoSQL.md",
-    "Reminders.md",
-    "Computing/19. Databases.md",
-    "Computing/18. Binary search tree.md",
-    "Computing/17. Data verification and validation.md",
-    "Computing/27. Network security.md",
-    "Computing/12. Sort algorithms.md",
-    "Computing/26. Computer networks.md",
-    "Computing/20. SQL.md",
-    "Computing/11. Search algorithms.md",
-    "Computing/11. Search algorithms.md",
-    "Computing/16. Hash table.md",
-    "Computing/16. Hash Table.md",
-    "Computing/15. Stack and queue.md",
-    "Computing/14. Linked list.md",
-    "Computing/13. OOP.md",
-    "images/physics/rate of decay.png",
-    "images/physics/binding energy per nucleon.png",
-    "images/physics/rutherford experiment findings.png",
-    "images/physics/rutherford's alpha particle scattering experiment.png",
-    "images/physics/scattering of alpha particles from gold foil.png",
-    "images/economics/import quota.png",
-    "images/economics/tarrifs.png",
+    "notes/Computing/26. Computer networks.md",
+    "notes/Computing/25. Ethics and impact.md",
+    "notes/Economics/14. Unemployment.md",
+    "notes/Economics/25. Benefit and costs of globalisation.md",
+    "notes/Economics/23. Policies to address market dominance.md",
+    "notes/Economics/15. Inflation and deflation.md",
+    "notes/A-Levels Todo.md",
+    "notes/Economics/26. Trade policies.md",
+    "notes/Economics/24. Globalisation and the international economy.md",
+    "notes/Economics/21. Market structure.md",
+    "notes/Economics/22. Firm's strategies.md",
+    "notes/Economics/3. Elasticity.md",
+    "notes/Economics/20. Theory of production and cost.md",
+    "notes/Economics/16. Balance of payments.md",
+    "notes/Physics/1. Measurement.md",
+    "notes/Economics/18. Monetary policy.md",
+    "notes/Economics/19. Supply side policies.md",
+    "notes/Economics/12. AD-AS Model.md",
+    "notes/Economics/11. The circular flow of income.md",
+    "notes/Computing/27. Network security.md",
+    "notes/Computing/23. Web app principles.md",
+    "notes/Computing/24. Data management.md",
+    "notes/Computing/17. Data verification and validation.md",
+    "notes/Computing/9. Data representation.md",
+    "notes/Economics/17. Fiscal policy.md",
+    "notes/Economics/10. Standard of living.md",
+    "pdfs",
+    "notes",
+    "notes/images/physics/Cyclist leaning.png",
+    "Pasted image 20240930173146.png",
+    "notes/images/physics/rate of decay.png",
+    "notes/images/physics/binding energy per nucleon.png",
+    "notes/images/physics/rutherford experiment findings.png",
+    "notes/images/physics/rutherford's alpha particle scattering experiment.png",
+    "notes/images/physics/scattering of alpha particles from gold foil.png",
+    "notes/images/economics/import quota.png",
+    "notes/images/economics/tarrifs.png",
     "Pasted image 20240803120425.png",
-    "images/physics/x-ray spectrum.png",
-    "images/physics/x-ray setup.png",
-    "Untitled",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a 1.heic",
     "14D00E7A-B360-4A21-B720-135017E3E55C_1_201_a.heic",
     "IMG_2470 1.heic",
     "IMG_2470.heic",
     "Untitled.canvas",
-    "images/physics",
-    "images/computing",
-    "Computing/guides",
-    "GP",
-    "6C3BF46C-6CD0-4CE4-A82C-E05C3D0F521C_1_201_a 2.heic"
+    "notes/images/physics",
+    "notes/images/computing",
+    "notes/Computing/guides",
+    "GP"
   ]
 }

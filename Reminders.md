@@ -1,3 +1,0 @@
-#misc
-## Due NOW!!!!
-- [ ] Testimonial
